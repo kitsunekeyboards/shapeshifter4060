@@ -19,7 +19,7 @@ U 1 1 581E77BB
 P 300 1600
 F 0 "SW11" H 450 1710 50  0000 C CNN
 F 1 "P" H 300 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 300 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 300 1600 60  0001 C CNN
 F 3 "" H 300 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -33,7 +33,7 @@ U 1 1 581E77C1
 P 300 1900
 F 0 "D11" H 200 1850 40  0000 C CNN
 F 1 "DIODE" H 300 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 300 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 300 1900 60  0001 C CNN
 F 3 "" H 300 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -50,7 +50,7 @@ U 1 1 581E77CE
 P 300 2300
 F 0 "SW23" H 450 2410 50  0000 C CNN
 F 1 ";" H 300 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 300 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 300 2300 60  0001 C CNN
 F 3 "" H 300 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -64,7 +64,7 @@ U 1 1 581E77D4
 P 300 2600
 F 0 "D23" H 200 2550 40  0000 C CNN
 F 1 "DIODE" H 300 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 300 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 300 2600 60  0001 C CNN
 F 3 "" H 300 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -81,7 +81,7 @@ U 1 1 581E77E1
 P 300 3000
 F 0 "SW35" H 450 3110 50  0000 C CNN
 F 1 "/" H 300 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 300 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 300 3000 60  0001 C CNN
 F 3 "" H 300 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -95,7 +95,7 @@ U 1 1 581E77E7
 P 300 3300
 F 0 "D35" H 200 3250 40  0000 C CNN
 F 1 "DIODE" H 300 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 300 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 300 3300 60  0001 C CNN
 F 3 "" H 300 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -112,7 +112,7 @@ U 1 1 581E77F4
 P 300 3700
 F 0 "SW47" H 450 3810 50  0000 C CNN
 F 1 "UP" H 300 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 300 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 300 3700 60  0001 C CNN
 F 3 "" H 300 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -126,7 +126,7 @@ U 1 1 581E77FA
 P 300 4000
 F 0 "D47" H 200 3950 40  0000 C CNN
 F 1 "DIODE" H 300 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 300 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 300 4000 60  0001 C CNN
 F 3 "" H 300 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -222,33 +222,6 @@ F 3 "" H 4450 6800 50  0000 C CNN
 $EndComp
 Text Label 4450 7450 3    50   ~ 0
 RESET
-$Comp
-L Laptreus-v2:SW_Push SW_RESET2
-U 1 1 5C539723
-P 4800 7150
-F 0 "SW_RESET2" H 4800 7300 50  0000 C CNN
-F 1 "SWITCH_PUSH" H 4800 7100 31  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 4800 7150 50  0001 C CNN
-F 3 "" H 4800 7150 50  0001 C CNN
-F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
-F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
-F 6 "Socket" H 0   0   50  0001 C CNN "Type"
-	1    4800 7150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR05
-U 1 1 5C539729
-P 4800 6800
-F 0 "#PWR05" H 4800 6550 50  0001 C CNN
-F 1 "GND" H 4800 6650 50  0000 C CNN
-F 2 "" H 4800 6800 50  0000 C CNN
-F 3 "" H 4800 6800 50  0000 C CNN
-	1    4800 6800
-	-1   0    0    1   
-$EndComp
-Text Label 4800 7450 3    50   ~ 0
-RESET
 Wire Wire Line
 	-100 4000 -100 4150
 Wire Wire Line
@@ -295,7 +268,7 @@ U 1 1 5D143D65
 P 1250 1600
 F 0 "SW10" H 1400 1710 50  0000 C CNN
 F 1 "O" H 1250 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 1250 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1250 1600 60  0001 C CNN
 F 3 "" H 1250 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -309,7 +282,7 @@ U 1 1 5D143D6B
 P 1250 1900
 F 0 "D10" H 1150 1850 40  0000 C CNN
 F 1 "DIODE" H 1250 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 1250 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 1250 1900 60  0001 C CNN
 F 3 "" H 1250 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -326,7 +299,7 @@ U 1 1 5D143D71
 P 1250 2300
 F 0 "SW22" H 1400 2410 50  0000 C CNN
 F 1 "L" H 1250 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 1250 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1250 2300 60  0001 C CNN
 F 3 "" H 1250 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -340,7 +313,7 @@ U 1 1 5D143D77
 P 1250 2600
 F 0 "D22" H 1150 2550 40  0000 C CNN
 F 1 "DIODE" H 1250 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 1250 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 1250 2600 60  0001 C CNN
 F 3 "" H 1250 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -357,7 +330,7 @@ U 1 1 5D143D7D
 P 1250 3000
 F 0 "SW34" H 1400 3110 50  0000 C CNN
 F 1 "." H 1250 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 1250 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1250 3000 60  0001 C CNN
 F 3 "" H 1250 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -371,7 +344,7 @@ U 1 1 5D143D83
 P 1250 3300
 F 0 "D34" H 1150 3250 40  0000 C CNN
 F 1 "DIODE" H 1250 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 1250 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 1250 3300 60  0001 C CNN
 F 3 "" H 1250 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -388,7 +361,7 @@ U 1 1 5D143D89
 P 1250 3700
 F 0 "SW46" H 1400 3810 50  0000 C CNN
 F 1 "DOWN" H 1250 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 1250 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1250 3700 60  0001 C CNN
 F 3 "" H 1250 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -402,7 +375,7 @@ U 1 1 5D143D8F
 P 1250 4000
 F 0 "D46" H 1150 3950 40  0000 C CNN
 F 1 "DIODE" H 1250 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 1250 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 1250 4000 60  0001 C CNN
 F 3 "" H 1250 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -459,7 +432,7 @@ U 1 1 5D156988
 P 2200 1600
 F 0 "SW9" H 2350 1710 50  0000 C CNN
 F 1 "I" H 2200 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 2200 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2200 1600 60  0001 C CNN
 F 3 "" H 2200 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -473,7 +446,7 @@ U 1 1 5D15698E
 P 2200 1900
 F 0 "D9" H 2100 1850 40  0000 C CNN
 F 1 "DIODE" H 2200 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 2200 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 2200 1900 60  0001 C CNN
 F 3 "" H 2200 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -490,7 +463,7 @@ U 1 1 5D156994
 P 2200 2300
 F 0 "SW21" H 2350 2410 50  0000 C CNN
 F 1 "K" H 2200 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 2200 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2200 2300 60  0001 C CNN
 F 3 "" H 2200 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -504,7 +477,7 @@ U 1 1 5D15699A
 P 2200 2600
 F 0 "D21" H 2100 2550 40  0000 C CNN
 F 1 "DIODE" H 2200 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 2200 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 2200 2600 60  0001 C CNN
 F 3 "" H 2200 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -521,7 +494,7 @@ U 1 1 5D1569A0
 P 2200 3000
 F 0 "SW33" H 2350 3110 50  0000 C CNN
 F 1 "," H 2200 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 2200 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2200 3000 60  0001 C CNN
 F 3 "" H 2200 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -535,7 +508,7 @@ U 1 1 5D1569A6
 P 2200 3300
 F 0 "D33" H 2100 3250 40  0000 C CNN
 F 1 "DIODE" H 2200 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 2200 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 2200 3300 60  0001 C CNN
 F 3 "" H 2200 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -552,7 +525,7 @@ U 1 1 5D1569AC
 P 2200 3700
 F 0 "SW45" H 2350 3810 50  0000 C CNN
 F 1 "LEFT" H 2200 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 2200 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2200 3700 60  0001 C CNN
 F 3 "" H 2200 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -566,7 +539,7 @@ U 1 1 5D1569B2
 P 2200 4000
 F 0 "D45" H 2100 3950 40  0000 C CNN
 F 1 "DIODE" H 2200 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 2200 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 2200 4000 60  0001 C CNN
 F 3 "" H 2200 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -623,7 +596,7 @@ U 1 1 5D16C615
 P 3150 1600
 F 0 "SW8" H 3300 1710 50  0000 C CNN
 F 1 "U" H 3150 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 3150 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3150 1600 60  0001 C CNN
 F 3 "" H 3150 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -637,7 +610,7 @@ U 1 1 5D16C61B
 P 3150 1900
 F 0 "D8" H 3050 1850 40  0000 C CNN
 F 1 "DIODE" H 3150 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 3150 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 3150 1900 60  0001 C CNN
 F 3 "" H 3150 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -654,7 +627,7 @@ U 1 1 5D16C621
 P 3150 2300
 F 0 "SW20" H 3300 2410 50  0000 C CNN
 F 1 "J/RAISE" H 3150 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 3150 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3150 2300 60  0001 C CNN
 F 3 "" H 3150 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -668,7 +641,7 @@ U 1 1 5D16C627
 P 3150 2600
 F 0 "D20" H 3050 2550 40  0000 C CNN
 F 1 "DIODE" H 3150 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 3150 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 3150 2600 60  0001 C CNN
 F 3 "" H 3150 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -685,7 +658,7 @@ U 1 1 5D16C62D
 P 3150 3000
 F 0 "SW32" H 3300 3110 50  0000 C CNN
 F 1 "M" H 3150 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 3150 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3150 3000 60  0001 C CNN
 F 3 "" H 3150 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -699,7 +672,7 @@ U 1 1 5D16C633
 P 3150 3300
 F 0 "D32" H 3050 3250 40  0000 C CNN
 F 1 "DIODE" H 3150 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 3150 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 3150 3300 60  0001 C CNN
 F 3 "" H 3150 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -716,7 +689,7 @@ U 1 1 5D16C639
 P 3150 3700
 F 0 "SW44" H 3300 3810 50  0000 C CNN
 F 1 "SPACE" H 3150 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 3150 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3150 3700 60  0001 C CNN
 F 3 "" H 3150 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -730,7 +703,7 @@ U 1 1 5D16C63F
 P 3150 4000
 F 0 "D44" H 3050 3950 40  0000 C CNN
 F 1 "DIODE" H 3150 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 3150 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 3150 4000 60  0001 C CNN
 F 3 "" H 3150 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -787,7 +760,7 @@ U 1 1 5D185A14
 P 4100 1600
 F 0 "SW7" H 4250 1710 50  0000 C CNN
 F 1 "Y" H 4100 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 4100 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4100 1600 60  0001 C CNN
 F 3 "" H 4100 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -801,7 +774,7 @@ U 1 1 5D185A1A
 P 4100 1900
 F 0 "D7" H 4000 1850 40  0000 C CNN
 F 1 "DIODE" H 4100 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 4100 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 4100 1900 60  0001 C CNN
 F 3 "" H 4100 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -818,7 +791,7 @@ U 1 1 5D185A20
 P 4100 2300
 F 0 "SW19" H 4250 2410 50  0000 C CNN
 F 1 "H" H 4100 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 4100 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4100 2300 60  0001 C CNN
 F 3 "" H 4100 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -832,7 +805,7 @@ U 1 1 5D185A26
 P 4100 2600
 F 0 "D19" H 4000 2550 40  0000 C CNN
 F 1 "DIODE" H 4100 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 4100 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 4100 2600 60  0001 C CNN
 F 3 "" H 4100 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -849,7 +822,7 @@ U 1 1 5D185A2C
 P 4100 3000
 F 0 "SW31" H 4250 3110 50  0000 C CNN
 F 1 "N" H 4100 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 4100 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4100 3000 60  0001 C CNN
 F 3 "" H 4100 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -863,7 +836,7 @@ U 1 1 5D185A32
 P 4100 3300
 F 0 "D31" H 4000 3250 40  0000 C CNN
 F 1 "DIODE" H 4100 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 4100 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 4100 3300 60  0001 C CNN
 F 3 "" H 4100 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -880,7 +853,7 @@ U 1 1 5D185A38
 P 4100 3700
 F 0 "SW43" H 4250 3810 50  0000 C CNN
 F 1 "ENTER/LIFT" H 4100 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 4100 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4100 3700 60  0001 C CNN
 F 3 "" H 4100 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -894,7 +867,7 @@ U 1 1 5D185A3E
 P 4100 4000
 F 0 "D43" H 4000 3950 40  0000 C CNN
 F 1 "DIODE" H 4100 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 4100 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 4100 4000 60  0001 C CNN
 F 3 "" H 4100 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -953,7 +926,7 @@ U 1 1 5D1B3FF9
 P 5550 1600
 F 0 "SW6" H 5700 1710 50  0000 C CNN
 F 1 "T" H 5550 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 5550 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5550 1600 60  0001 C CNN
 F 3 "" H 5550 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -967,7 +940,7 @@ U 1 1 5D1B3FFF
 P 5550 1900
 F 0 "D6" H 5450 1850 40  0000 C CNN
 F 1 "DIODE" H 5550 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 5550 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 5550 1900 60  0001 C CNN
 F 3 "" H 5550 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -984,7 +957,7 @@ U 1 1 5D1B4005
 P 5550 2300
 F 0 "SW18" H 5700 2410 50  0000 C CNN
 F 1 "G" H 5550 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 5550 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5550 2300 60  0001 C CNN
 F 3 "" H 5550 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -998,7 +971,7 @@ U 1 1 5D1B400B
 P 5550 2600
 F 0 "D18" H 5450 2550 40  0000 C CNN
 F 1 "DIODE" H 5550 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 5550 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 5550 2600 60  0001 C CNN
 F 3 "" H 5550 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1015,7 +988,7 @@ U 1 1 5D1B4011
 P 5550 3000
 F 0 "SW30" H 5700 3110 50  0000 C CNN
 F 1 "B" H 5550 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 5550 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5550 3000 60  0001 C CNN
 F 3 "" H 5550 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1029,7 +1002,7 @@ U 1 1 5D1B4017
 P 5550 3300
 F 0 "D30" H 5450 3250 40  0000 C CNN
 F 1 "DIODE" H 5550 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 5550 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 5550 3300 60  0001 C CNN
 F 3 "" H 5550 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1046,7 +1019,7 @@ U 1 1 5D1B401D
 P 5550 3700
 F 0 "SW42" H 5700 3810 50  0000 C CNN
 F 1 "BKSP/LIFT" H 5550 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 5550 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5550 3700 60  0001 C CNN
 F 3 "" H 5550 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1060,7 +1033,7 @@ U 1 1 5D1B4023
 P 5550 4000
 F 0 "D42" H 5450 3950 40  0000 C CNN
 F 1 "DIODE" H 5550 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 5550 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 5550 4000 60  0001 C CNN
 F 3 "" H 5550 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1117,7 +1090,7 @@ U 1 1 5D1BDE7D
 P 6500 1600
 F 0 "SW5" H 6650 1710 50  0000 C CNN
 F 1 "R" H 6500 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 6500 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6500 1600 60  0001 C CNN
 F 3 "" H 6500 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1131,7 +1104,7 @@ U 1 1 5D1BDE83
 P 6500 1900
 F 0 "D5" H 6400 1850 40  0000 C CNN
 F 1 "DIODE" H 6500 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 6500 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 6500 1900 60  0001 C CNN
 F 3 "" H 6500 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1148,7 +1121,7 @@ U 1 1 5D1BDE89
 P 6500 2300
 F 0 "SW17" H 6650 2410 50  0000 C CNN
 F 1 "F/LOWER" H 6500 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 6500 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6500 2300 60  0001 C CNN
 F 3 "" H 6500 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1162,7 +1135,7 @@ U 1 1 5D1BDE8F
 P 6500 2600
 F 0 "D17" H 6400 2550 40  0000 C CNN
 F 1 "DIODE" H 6500 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 6500 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 6500 2600 60  0001 C CNN
 F 3 "" H 6500 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1179,7 +1152,7 @@ U 1 1 5D1BDE95
 P 6500 3000
 F 0 "SW29" H 6650 3110 50  0000 C CNN
 F 1 "V" H 6500 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 6500 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6500 3000 60  0001 C CNN
 F 3 "" H 6500 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1193,7 +1166,7 @@ U 1 1 5D1BDE9B
 P 6500 3300
 F 0 "D29" H 6400 3250 40  0000 C CNN
 F 1 "DIODE" H 6500 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 6500 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 6500 3300 60  0001 C CNN
 F 3 "" H 6500 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1210,7 +1183,7 @@ U 1 1 5D1BDEA1
 P 6500 3700
 F 0 "SW41" H 6650 3810 50  0000 C CNN
 F 1 "SHIFT" H 6500 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 6500 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6500 3700 60  0001 C CNN
 F 3 "" H 6500 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1224,7 +1197,7 @@ U 1 1 5D1BDEA7
 P 6500 4000
 F 0 "D41" H 6400 3950 40  0000 C CNN
 F 1 "DIODE" H 6500 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 6500 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 6500 4000 60  0001 C CNN
 F 3 "" H 6500 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1281,7 +1254,7 @@ U 1 1 5D1CA752
 P 7450 1600
 F 0 "SW4" H 7600 1710 50  0000 C CNN
 F 1 "E" H 7450 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 7450 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7450 1600 60  0001 C CNN
 F 3 "" H 7450 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1295,7 +1268,7 @@ U 1 1 5D1CA758
 P 7450 1900
 F 0 "D4" H 7350 1850 40  0000 C CNN
 F 1 "DIODE" H 7450 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 7450 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 7450 1900 60  0001 C CNN
 F 3 "" H 7450 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1312,7 +1285,7 @@ U 1 1 5D1CA75E
 P 7450 2300
 F 0 "SW16" H 7600 2410 50  0000 C CNN
 F 1 "D" H 7450 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 7450 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7450 2300 60  0001 C CNN
 F 3 "" H 7450 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1326,7 +1299,7 @@ U 1 1 5D1CA764
 P 7450 2600
 F 0 "D16" H 7350 2550 40  0000 C CNN
 F 1 "DIODE" H 7450 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 7450 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 7450 2600 60  0001 C CNN
 F 3 "" H 7450 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1343,7 +1316,7 @@ U 1 1 5D1CA76A
 P 7450 3000
 F 0 "SW28" H 7600 3110 50  0000 C CNN
 F 1 "C" H 7450 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 7450 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7450 3000 60  0001 C CNN
 F 3 "" H 7450 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1357,7 +1330,7 @@ U 1 1 5D1CA770
 P 7450 3300
 F 0 "D28" H 7350 3250 40  0000 C CNN
 F 1 "DIODE" H 7450 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 7450 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 7450 3300 60  0001 C CNN
 F 3 "" H 7450 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1374,7 +1347,7 @@ U 1 1 5D1CA776
 P 7450 3700
 F 0 "SW40" H 7600 3810 50  0000 C CNN
 F 1 "CMD" H 7450 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 7450 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7450 3700 60  0001 C CNN
 F 3 "" H 7450 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1388,7 +1361,7 @@ U 1 1 5D1CA77C
 P 7450 4000
 F 0 "D40" H 7350 3950 40  0000 C CNN
 F 1 "DIODE" H 7450 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 7450 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 7450 4000 60  0001 C CNN
 F 3 "" H 7450 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1445,7 +1418,7 @@ U 1 1 5D1D875B
 P 8400 1600
 F 0 "SW3" H 8550 1710 50  0000 C CNN
 F 1 "W" H 8400 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 8400 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 8400 1600 60  0001 C CNN
 F 3 "" H 8400 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1459,7 +1432,7 @@ U 1 1 5D1D8761
 P 8400 1900
 F 0 "D3" H 8300 1850 40  0000 C CNN
 F 1 "DIODE" H 8400 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 8400 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 8400 1900 60  0001 C CNN
 F 3 "" H 8400 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1476,7 +1449,7 @@ U 1 1 5D1D8767
 P 8400 2300
 F 0 "SW15" H 8550 2410 50  0000 C CNN
 F 1 "S" H 8400 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 8400 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 8400 2300 60  0001 C CNN
 F 3 "" H 8400 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1490,7 +1463,7 @@ U 1 1 5D1D876D
 P 8400 2600
 F 0 "D15" H 8300 2550 40  0000 C CNN
 F 1 "DIODE" H 8400 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 8400 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 8400 2600 60  0001 C CNN
 F 3 "" H 8400 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1507,7 +1480,7 @@ U 1 1 5D1D8773
 P 8400 3000
 F 0 "SW27" H 8550 3110 50  0000 C CNN
 F 1 "X" H 8400 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 8400 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 8400 3000 60  0001 C CNN
 F 3 "" H 8400 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1521,7 +1494,7 @@ U 1 1 5D1D8779
 P 8400 3300
 F 0 "D27" H 8300 3250 40  0000 C CNN
 F 1 "DIODE" H 8400 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 8400 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 8400 3300 60  0001 C CNN
 F 3 "" H 8400 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1538,7 +1511,7 @@ U 1 1 5D1D877F
 P 8400 3700
 F 0 "SW39" H 8550 3810 50  0000 C CNN
 F 1 "ALT/TAB" H 8400 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 8400 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 8400 3700 60  0001 C CNN
 F 3 "" H 8400 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1552,7 +1525,7 @@ U 1 1 5D1D8785
 P 8400 4000
 F 0 "D39" H 8300 3950 40  0000 C CNN
 F 1 "DIODE" H 8400 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 8400 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 8400 4000 60  0001 C CNN
 F 3 "" H 8400 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1609,7 +1582,7 @@ U 1 1 5D1E9C75
 P 9350 1600
 F 0 "SW2" H 9500 1710 50  0000 C CNN
 F 1 "Q" H 9350 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 9350 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 9350 1600 60  0001 C CNN
 F 3 "" H 9350 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1623,7 +1596,7 @@ U 1 1 5D1E9C7B
 P 9350 1900
 F 0 "D2" H 9250 1850 40  0000 C CNN
 F 1 "DIODE" H 9350 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 9350 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 9350 1900 60  0001 C CNN
 F 3 "" H 9350 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1640,7 +1613,7 @@ U 1 1 5D1E9C81
 P 9350 2300
 F 0 "SW14" H 9500 2410 50  0000 C CNN
 F 1 "A" H 9350 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 9350 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 9350 2300 60  0001 C CNN
 F 3 "" H 9350 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1654,7 +1627,7 @@ U 1 1 5D1E9C87
 P 9350 2600
 F 0 "D14" H 9250 2550 40  0000 C CNN
 F 1 "DIODE" H 9350 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 9350 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 9350 2600 60  0001 C CNN
 F 3 "" H 9350 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1671,7 +1644,7 @@ U 1 1 5D1E9C8D
 P 9350 3000
 F 0 "SW26" H 9500 3110 50  0000 C CNN
 F 1 "Z" H 9350 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 9350 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 9350 3000 60  0001 C CNN
 F 3 "" H 9350 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1685,7 +1658,7 @@ U 1 1 5D1E9C93
 P 9350 3300
 F 0 "D26" H 9250 3250 40  0000 C CNN
 F 1 "DIODE" H 9350 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 9350 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 9350 3300 60  0001 C CNN
 F 3 "" H 9350 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1702,7 +1675,7 @@ U 1 1 5D1E9C99
 P 9350 3700
 F 0 "SW38" H 9500 3810 50  0000 C CNN
 F 1 "CTRL/GRV" H 9350 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 9350 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 9350 3700 60  0001 C CNN
 F 3 "" H 9350 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -1716,7 +1689,7 @@ U 1 1 5D1E9C9F
 P 9350 4000
 F 0 "D38" H 9250 3950 40  0000 C CNN
 F 1 "DIODE" H 9350 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 9350 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 9350 4000 60  0001 C CNN
 F 3 "" H 9350 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -1932,11 +1905,7 @@ Wire Wire Line
 Wire Wire Line
 	4450 7450 4450 7350
 Wire Wire Line
-	4800 7450 4800 7350
-Wire Wire Line
 	4450 6950 4450 6800
-Wire Wire Line
-	4800 6950 4800 6800
 Wire Wire Line
 	5150 4000 5150 4150
 Connection ~ 5150 4000
@@ -2080,7 +2049,7 @@ U 1 1 262CA06F
 P 1050 5350
 F 0 "R2" H 1050 5450 50  0000 C CNN
 F 1 "100K" H 1050 5350 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 1050 5350 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 1050 5350 50  0001 C CNN
 F 3 "" H 1050 5350 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -2107,7 +2076,7 @@ U 1 1 B3CA7E68
 P 3250 7250
 F 0 "R5" H 3250 7350 50  0000 C CNN
 F 1 "100K" H 3250 7250 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 3250 7250 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 3250 7250 50  0001 C CNN
 F 3 "" H 3250 7250 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -2123,7 +2092,7 @@ U 1 1 B915E54E
 P 3250 6850
 F 0 "R4" H 3250 6950 50  0000 C CNN
 F 1 "100K" H 3250 6850 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 3250 6850 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 3250 6850 50  0001 C CNN
 F 3 "" H 3250 6850 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -2150,7 +2119,7 @@ U 1 1 D1C5A87C
 P 2250 7250
 F 0 "R3" H 2250 7350 50  0000 C CNN
 F 1 "10K" H 2250 7250 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 2250 7250 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 2250 7250 50  0001 C CNN
 F 3 "" H 2250 7250 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -2193,7 +2162,7 @@ U 1 1 DE6637A0
 P 350 7350
 F 0 "R1" H 350 7450 50  0000 C CNN
 F 1 "1K" H 350 7350 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 350 7350 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 350 7350 50  0001 C CNN
 F 3 "" H 350 7350 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -2209,7 +2178,7 @@ U 1 1 81959A1F
 P 750 7350
 F 0 "L4" H 700 7525 42  0000 C CNN
 F 1 "ORANGE" H 700 7240 42  0000 C CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE" H 750 7350 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:LED_0603_1608Metric_Castellated_With_Adhesive" H 750 7350 50  0001 C CNN
 F 3 "" H 750 7350 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "LED" H 0   0   50  0001 C CNN "Type"
@@ -2225,7 +2194,7 @@ U 1 1 C057CF4F
 P 1350 7250
 F 0 "U1" H 950 7700 42  0000 L BNN
 F 1 "MCP73831T-2ATI/OT" H 950 6750 42  0000 L BNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:SOT23-5" H 1350 7250 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:SOT-143_With_Adhesive" H 1350 7250 50  0001 C CNN
 F 3 "" H 1350 7250 50  0001 C CNN
 F 4 "MCP73831T-2ATI/OT" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "SOT23-5" H 0   0   50  0001 C CNN "Package"
@@ -2252,7 +2221,7 @@ U 1 1 C8CA0D79
 P 200 5550
 F 0 "X1" H -50 5775 59  0000 L BNN
 F 1 "JSTPH" H -50 5350 59  0000 L BNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:JSTPH2" H 200 5550 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:JSTPH2-with-THT" H 200 5550 50  0001 C CNN
 F 3 "" H 200 5550 50  0001 C CNN
 F 4 "JST PH" H 0   0   50  0001 C CNN "Package"
 F 5 "C375128" H 0   0   50  0001 C CNN "LCSC Part Number"
@@ -2261,42 +2230,6 @@ F 7 "A2001WR-S-2P" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 8 "Connector" H 0   0   50  0001 C CNN "Type"
 	1    200  5550
 	-1   0    0    1   
-$EndComp
-$Comp
-L Adafruit-parts:TESTPOINT1.5X2.0MM_NOCREAM TP3
-U 1 1 D599839A
-P 3950 9250
-F 0 "TP3" V 3950 9470 42  0000 L CNN
-F 1 "SWDIO" V 4015 9470 42  0000 L CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:PAD-1.5X2.0" H 3950 9250 50  0001 C CNN
-F 3 "" H 3950 9250 50  0001 C CNN
-F 4 "Pin" H 0   0   50  0001 C CNN "Type"
-	1    3950 9250
-	0    1    1    0   
-$EndComp
-$Comp
-L Adafruit-parts:TESTPOINT1.5X2.0MM_NOCREAM TP2
-U 1 1 40D0ED20
-P 3950 9150
-F 0 "TP2" V 3950 9370 42  0000 L CNN
-F 1 "SWDIO" V 4015 9370 42  0000 L CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:PAD-1.5X2.0" H 3950 9150 50  0001 C CNN
-F 3 "" H 3950 9150 50  0001 C CNN
-F 4 "Pin" H 0   0   50  0001 C CNN "Type"
-	1    3950 9150
-	0    1    1    0   
-$EndComp
-$Comp
-L Adafruit-parts:TESTPOINT1.5X2.0MM_NOCREAM TP1
-U 1 1 02DAF868
-P 3950 9050
-F 0 "TP1" V 3950 9270 42  0000 L CNN
-F 1 "SWCLK" V 4015 9270 42  0000 L CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:PAD-1.5X2.0" H 3950 9050 50  0001 C CNN
-F 3 "" H 3950 9050 50  0001 C CNN
-F 4 "Pin" H 0   0   50  0001 C CNN "Type"
-	1    3950 9050
-	0    1    1    0   
 $EndComp
 $Comp
 L Laptreus-v2:GND #U$0112
@@ -2397,7 +2330,7 @@ U 1 1 CBA9FA4B
 P 4850 9150
 F 0 "R7" H 4850 9250 50  0000 C CNN
 F 1 "2.2K" H 4850 9150 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 4850 9150 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 4850 9150 50  0001 C CNN
 F 3 "" H 4850 9150 50  0001 C CNN
 F 4 "R" H 4850 9150 50  0001 C CNN "Spice_Primitive"
 F 5 "2.2K" H 4850 9150 50  0001 C CNN "Spice_Model"
@@ -2416,7 +2349,7 @@ U 1 1 50F6919A
 P 4450 9150
 F 0 "R6" H 4450 9250 50  0000 C CNN
 F 1 "2.2K" H 4450 9150 40  0000 C CNB
-F 2 "Laptreus v2 Footprints:0805-NO" H 4450 9150 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" H 4450 9150 50  0001 C CNN
 F 3 "" H 4450 9150 50  0001 C CNN
 F 4 "R" H 4450 9150 50  0001 C CNN "Spice_Primitive"
 F 5 "2.2K" H 4450 9150 50  0001 C CNN "Spice_Model"
@@ -2435,7 +2368,7 @@ U 1 1 79D2C686
 P 4850 9650
 F 0 "L3" H 4800 9825 42  0000 C CNN
 F 1 "BLUE" H 4800 9540 42  0000 C CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE" H 4850 9650 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:LED_0603_1608Metric_Castellated_With_Adhesive" H 4850 9650 50  0001 C CNN
 F 3 "" H 4850 9650 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "LED" H 0   0   50  0001 C CNN "Type"
@@ -2451,7 +2384,7 @@ U 1 1 3C4DD7E3
 P 4450 9650
 F 0 "L2" H 4400 9825 42  0000 C CNN
 F 1 "RED" H 4400 9540 42  0000 C CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE" H 4450 9650 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:LED_0603_1608Metric_Castellated_With_Adhesive" H 4450 9650 50  0001 C CNN
 F 3 "" H 4450 9650 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "LED" H 0   0   50  0001 C CNN "Type"
@@ -2483,7 +2416,7 @@ U 1 1 1CE82995
 P 1750 5350
 F 0 "U2" H 1450 5590 42  0000 L BNN
 F 1 "SPX3819-3.3" H 1450 5050 42  0000 L BNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:SOT23-5" H 1750 5350 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:SOT-143_With_Adhesive" H 1750 5350 50  0001 C CNN
 F 3 "" H 1750 5350 50  0001 C CNN
 F 4 "SPX3819M5-L-3-3/TR" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "SOT23-5" H 0   0   50  0001 C CNN "Package"
@@ -2542,7 +2475,7 @@ U 1 1 2B2AC703
 P 6850 13200
 F 0 "IC1" H 6600 12300 59  0000 L BNN
 F 1 "ATMEGA32U4" H 6650 15000 59  0000 L BNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 6850 13200 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:TQFP-44_10x10mm_P0.8mm" H 6850 13200 50  0001 C CNN
 F 3 "" H 6850 13200 50  0001 C CNN
 F 4 "TQFP" H 0   0   50  0001 C CNN "Package"
 F 5 "MCU" H 0   0   50  0001 C CNN "Type"
@@ -2558,7 +2491,7 @@ U 1 1 D711E10D
 P 9250 12600
 F 0 "L1" H 9200 12775 42  0000 C CNN
 F 1 "YELLOW" H 9200 12490 42  0000 C CNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE" H 9250 12600 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:LED_0603_1608Metric_Castellated_With_Adhesive" H 9250 12600 50  0001 C CNN
 F 3 "" H 9250 12600 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "LED" H 0   0   50  0001 C CNN "Type"
@@ -2713,7 +2646,7 @@ Text Label 8450 12600 2    70   ~ 0
 Text Label 3250 9250 0    70   ~ 0
 FCTRYRST
 Wire Wire Line
-	3150 9250 3950 9250
+	3150 9250 3450 9250
 Wire Wire Line
 	2450 10550 2450 10600
 Wire Wire Line
@@ -2735,11 +2668,11 @@ Wire Wire Line
 Text Label 3250 9150 0    70   ~ 0
 4_SWDIO/RST
 Wire Wire Line
-	3150 9150 3950 9150
+	3150 9150 3750 9150
 Text Label 3250 9050 0    70   ~ 0
 SWCLK
 Wire Wire Line
-	3150 9050 3950 9050
+	3150 9050 3650 9050
 Connection ~ 2650 7150
 Wire Wire Line
 	2650 7150 2650 7050
@@ -3053,7 +2986,7 @@ U 1 1 5D362246
 P 10300 1600
 F 0 "SW1" H 10450 1710 50  0000 C CNN
 F 1 "TAB" H 10300 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 10300 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 10300 1600 60  0001 C CNN
 F 3 "" H 10300 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3067,7 +3000,7 @@ U 1 1 5D362250
 P 10300 1900
 F 0 "D1" H 10200 1850 40  0000 C CNN
 F 1 "DIODE" H 10300 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 10300 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 10300 1900 60  0001 C CNN
 F 3 "" H 10300 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3084,7 +3017,7 @@ U 1 1 5D36225A
 P 10300 2300
 F 0 "SW13" H 10450 2410 50  0000 C CNN
 F 1 "ESC" H 10300 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 10300 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 10300 2300 60  0001 C CNN
 F 3 "" H 10300 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3098,7 +3031,7 @@ U 1 1 5D362264
 P 10300 2600
 F 0 "D13" H 10200 2550 40  0000 C CNN
 F 1 "DIODE" H 10300 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 10300 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 10300 2600 60  0001 C CNN
 F 3 "" H 10300 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3115,7 +3048,7 @@ U 1 1 5D36226E
 P 10300 3000
 F 0 "SW25" H 10450 3110 50  0000 C CNN
 F 1 "SHIFT" H 10300 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 10300 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 10300 3000 60  0001 C CNN
 F 3 "" H 10300 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3129,7 +3062,7 @@ U 1 1 5D362278
 P 10300 3300
 F 0 "D25" H 10200 3250 40  0000 C CNN
 F 1 "DIODE" H 10300 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 10300 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 10300 3300 60  0001 C CNN
 F 3 "" H 10300 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3146,7 +3079,7 @@ U 1 1 5D362282
 P 10300 3700
 F 0 "SW37" H 10450 3810 50  0000 C CNN
 F 1 "HYPER" H 10300 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H 10300 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 10300 3700 60  0001 C CNN
 F 3 "" H 10300 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3160,7 +3093,7 @@ U 1 1 5D36228C
 P 10300 4000
 F 0 "D37" H 10200 3950 40  0000 C CNN
 F 1 "DIODE" H 10300 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H 10300 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H 10300 4000 60  0001 C CNN
 F 3 "" H 10300 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3248,7 +3181,7 @@ U 1 1 5D4233B5
 P -650 1600
 F 0 "SW12" H -500 1710 50  0000 C CNN
 F 1 "BKSP" H -650 1520 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket" H -650 1600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H -650 1600 60  0001 C CNN
 F 3 "" H -650 1600 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3262,7 +3195,7 @@ U 1 1 5D4233BF
 P -650 1900
 F 0 "D12" H -750 1850 40  0000 C CNN
 F 1 "DIODE" H -650 1950 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H -650 1900 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H -650 1900 60  0001 C CNN
 F 3 "" H -650 1900 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3279,7 +3212,7 @@ U 1 1 5D4233C9
 P -650 2300
 F 0 "SW24" H -500 2410 50  0000 C CNN
 F 1 "\"" H -650 2220 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H -650 2300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H -650 2300 60  0001 C CNN
 F 3 "" H -650 2300 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3293,7 +3226,7 @@ U 1 1 5D4233D3
 P -650 2600
 F 0 "D24" H -750 2550 40  0000 C CNN
 F 1 "DIODE" H -650 2650 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H -650 2600 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H -650 2600 60  0001 C CNN
 F 3 "" H -650 2600 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3310,7 +3243,7 @@ U 1 1 5D4233DD
 P -650 3000
 F 0 "SW36" H -500 3110 50  0000 C CNN
 F 1 "ENTER" H -650 2920 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H -650 3000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H -650 3000 60  0001 C CNN
 F 3 "" H -650 3000 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3324,7 +3257,7 @@ U 1 1 5D4233E7
 P -650 3300
 F 0 "D36" H -750 3250 40  0000 C CNN
 F 1 "DIODE" H -650 3350 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H -650 3300 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H -650 3300 60  0001 C CNN
 F 3 "" H -650 3300 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3341,7 +3274,7 @@ U 1 1 5D4233F1
 P -650 3700
 F 0 "SW48" H -500 3810 50  0000 C CNN
 F 1 "RIGHT" H -650 3620 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad" H -650 3700 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H -650 3700 60  0001 C CNN
 F 3 "" H -650 3700 60  0001 C CNN
 F 4 "CPG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 0   0   50  0001 C CNN "Package"
@@ -3355,7 +3288,7 @@ U 1 1 5D4233FB
 P -650 4000
 F 0 "D48" H -750 3950 40  0000 C CNN
 F 1 "DIODE" H -650 4050 40  0000 C CNN
-F 2 "Laptreus v2 Footprints:Diode-dual" H -650 4000 60  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:D_SOD-323_With_Adhesive" H -650 4000 60  0001 C CNN
 F 3 "" H -650 4000 60  0001 C CNN
 F 4 "SOD-123" H 0   0   50  0001 C CNN "Package"
 F 5 "Diode" H 0   0   50  0001 C CNN "Type"
@@ -3549,7 +3482,7 @@ U 1 1 5C314296
 P 3000 13000
 F 0 "R12" V 2900 13000 50  0000 C CNN
 F 1 "5.1K" V 3000 13000 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:0805-NO" V 2930 13000 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" V 2930 13000 50  0001 C CNN
 F 3 "~" H 3000 13000 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -3565,7 +3498,7 @@ U 1 1 5C31429C
 P 3000 13100
 F 0 "R11" V 2900 13100 50  0000 C CNN
 F 1 "5.1K" V 3000 13100 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:0805-NO" V 2930 13100 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" V 2930 13100 50  0001 C CNN
 F 3 "~" H 3000 13100 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -3611,121 +3544,6 @@ Wire Wire Line
 	2250 12300 2250 12250
 Connection ~ 2250 12300
 $Comp
-L Connector:Screw_Terminal_01x01 S1
-U 1 1 5C2A7B35
-P 5800 8250
-F 0 "S1" H 5880 8292 50  0000 L CNN
-F 1 "Screw" H 5880 8201 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH-Round" H 5800 8250 50  0001 C CNN
-F 3 "~" H 5800 8250 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    5800 8250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR012
-U 1 1 5C2A8B86
-P 5600 8250
-F 0 "#PWR012" H 5600 8000 50  0001 C CNN
-F 1 "GND" H 5605 8077 50  0000 C CNN
-F 2 "" H 5600 8250 50  0001 C CNN
-F 3 "" H 5600 8250 50  0001 C CNN
-	1    5600 8250
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 S2
-U 1 1 5C2AA553
-P 5800 8500
-F 0 "S2" H 5880 8542 50  0000 L CNN
-F 1 "Screw" H 5880 8451 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH" H 5800 8500 50  0001 C CNN
-F 3 "~" H 5800 8500 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    5800 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR013
-U 1 1 5C2AA559
-P 5600 8500
-F 0 "#PWR013" H 5600 8250 50  0001 C CNN
-F 1 "GND" H 5605 8327 50  0000 C CNN
-F 2 "" H 5600 8500 50  0001 C CNN
-F 3 "" H 5600 8500 50  0001 C CNN
-	1    5600 8500
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 S4
-U 1 1 5C2F0889
-P 5800 9000
-F 0 "S4" H 5880 9042 50  0000 L CNN
-F 1 "Screw" H 5880 8951 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRHSL" H 5800 9000 50  0001 C CNN
-F 3 "~" H 5800 9000 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    5800 9000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR015
-U 1 1 5C2F088F
-P 5600 9000
-F 0 "#PWR015" H 5600 8750 50  0001 C CNN
-F 1 "GND" H 5605 8827 50  0000 C CNN
-F 2 "" H 5600 9000 50  0001 C CNN
-F 3 "" H 5600 9000 50  0001 C CNN
-	1    5600 9000
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 S5
-U 1 1 5C313929
-P 5800 9250
-F 0 "S5" H 5880 9292 50  0000 L CNN
-F 1 "Screw" H 5880 9201 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRHSL" H 5800 9250 50  0001 C CNN
-F 3 "~" H 5800 9250 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    5800 9250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR016
-U 1 1 5C31392F
-P 5600 9250
-F 0 "#PWR016" H 5600 9000 50  0001 C CNN
-F 1 "GND" H 5605 9077 50  0000 C CNN
-F 2 "" H 5600 9250 50  0001 C CNN
-F 3 "" H 5600 9250 50  0001 C CNN
-	1    5600 9250
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 S6
-U 1 1 5C3372C8
-P 5800 9500
-F 0 "S6" H 5880 9542 50  0000 L CNN
-F 1 "Screw" H 5880 9451 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH" H 5800 9500 50  0001 C CNN
-F 3 "~" H 5800 9500 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    5800 9500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR017
-U 1 1 5C3372CE
-P 5600 9500
-F 0 "#PWR017" H 5600 9250 50  0001 C CNN
-F 1 "GND" H 5605 9327 50  0000 C CNN
-F 2 "" H 5600 9500 50  0001 C CNN
-F 3 "" H 5600 9500 50  0001 C CNN
-	1    5600 9500
-	0    1    1    0   
-$EndComp
-$Comp
 L Connector_Generic:Conn_02x03_Odd_Even J2
 U 1 1 5CEE94EA
 P 1800 13950
@@ -3762,7 +3580,7 @@ U 1 1 5C2C8A40
 P 2250 12100
 F 0 "F1" H 2338 12146 50  0000 L CNN
 F 1 "Polyfuse" H 2338 12055 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:0805-NO" H 2300 11900 50  0001 L CNN
+F 2 "Laptreus v2_2 Archive Footprints:Fuse_1812_4532Metric_With_Adhesive" H 2300 11900 50  0001 L CNN
 F 3 "~" H 2250 12100 50  0001 C CNN
 F 4 "SMD1206" H 0   0   50  0001 C CNN "Package"
 F 5 "Polyfuse" H 0   0   50  0001 C CNN "Type"
@@ -3775,52 +3593,6 @@ F 9 "12H1200C" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 $EndComp
 Wire Wire Line
 	2250 12300 2350 12300
-$Comp
-L Connector:Screw_Terminal_01x01 S8
-U 1 1 5C5EA78C
-P 6800 8500
-F 0 "S8" H 6880 8542 50  0000 L CNN
-F 1 "Tofu screw" H 6880 8451 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH" H 6800 8500 50  0001 C CNN
-F 3 "~" H 6800 8500 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    6800 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR019
-U 1 1 5C5EA792
-P 6600 8500
-F 0 "#PWR019" H 6600 8250 50  0001 C CNN
-F 1 "GND" H 6605 8327 50  0000 C CNN
-F 2 "" H 6600 8500 50  0001 C CNN
-F 3 "" H 6600 8500 50  0001 C CNN
-	1    6600 8500
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 S9
-U 1 1 5C610563
-P 6800 8750
-F 0 "S9" H 6880 8792 50  0000 L CNN
-F 1 "Tofu screw" H 6880 8701 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH" H 6800 8750 50  0001 C CNN
-F 3 "~" H 6800 8750 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    6800 8750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR020
-U 1 1 5C610569
-P 6600 8750
-F 0 "#PWR020" H 6600 8500 50  0001 C CNN
-F 1 "GND" H 6605 8577 50  0000 C CNN
-F 2 "" H 6600 8750 50  0001 C CNN
-F 3 "" H 6600 8750 50  0001 C CNN
-	1    6600 8750
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	2250 12300 2250 13200
 $Comp
@@ -3829,7 +3601,7 @@ U 1 1 5E2BF1F7
 P 5000 12450
 F 0 "R8" V 4900 12450 50  0000 C CNN
 F 1 "22" V 5000 12450 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:0805-NO" V 4930 12450 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" V 4930 12450 50  0001 C CNN
 F 3 "~" H 5000 12450 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -3845,7 +3617,7 @@ U 1 1 5E2BF1FD
 P 5000 12650
 F 0 "R9" V 4900 12650 50  0000 C CNN
 F 1 "22" V 5000 12650 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:0805-NO" V 4930 12650 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" V 4930 12650 50  0001 C CNN
 F 3 "~" H 5000 12650 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -3886,7 +3658,7 @@ U 1 1 5C2AA91A
 P 8600 12200
 F 0 "R10" V 8500 12200 50  0000 C CNN
 F 1 "1K" V 8600 12200 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:0805-NO" V 8530 12200 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" V 8530 12200 50  0001 C CNN
 F 3 "~" H 8600 12200 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -3932,18 +3704,6 @@ F 1 "GND" H 4755 13177 50  0000 C CNN
 F 2 "" H 4750 13350 50  0001 C CNN
 F 3 "" H 4750 13350 50  0001 C CNN
 	1    4750 13350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 S7
-U 1 1 5C59E1CB
-P 6800 8250
-F 0 "S7" H 6880 8292 50  0000 L CNN
-F 1 "Tofu screw" H 6880 8201 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH" H 6800 8250 50  0001 C CNN
-F 3 "~" H 6800 8250 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    6800 8250
 	1    0    0    -1  
 $EndComp
 Connection ~ 5650 12900
@@ -4068,7 +3828,7 @@ U 1 1 6415016D
 P 8700 12600
 F 0 "R13" V 8600 12600 50  0000 C CNN
 F 1 "2.2K" V 8700 12600 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:0805-NO" V 8630 12600 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:R_0603_1608Metric_With_Adhesive" V 8630 12600 50  0001 C CNN
 F 3 "~" H 8700 12600 50  0001 C CNN
 F 4 "0805" H 0   0   50  0001 C CNN "Package"
 F 5 "Resistor" H 0   0   50  0001 C CNN "Type"
@@ -4096,29 +3856,6 @@ $EndComp
 Text Label 550  7350 1    39   ~ 0
 CHARGE
 $Comp
-L Connector:Screw_Terminal_01x01 S3
-U 1 1 647754D9
-P 5800 8750
-F 0 "S3" H 5880 8792 50  0000 L CNN
-F 1 "Screw" H 5880 8701 50  0000 L CNN
-F 2 "Laptreus v2 Footprints:PKRH" H 5800 8750 50  0001 C CNN
-F 3 "~" H 5800 8750 50  0001 C CNN
-F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
-	1    5800 8750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Laptreus-v2:GND #PWR0102
-U 1 1 647754E3
-P 5600 8750
-F 0 "#PWR0102" H 5600 8500 50  0001 C CNN
-F 1 "GND" H 5605 8577 50  0000 C CNN
-F 2 "" H 5600 8750 50  0001 C CNN
-F 3 "" H 5600 8750 50  0001 C CNN
-	1    5600 8750
-	0    1    1    0   
-$EndComp
-$Comp
 L Laptreus-v2:GND #U$0102
 U 1 1 5D47709A
 P -50 6050
@@ -4135,7 +3872,7 @@ U 1 1 5D4770A4
 P -150 5550
 F 0 "X2" H -400 5775 59  0000 L BNN
 F 1 "JSTPH" H -400 5350 59  0000 L BNN
-F 2 "Adafruit Feather 32u4 Bluefruit LE:JSTPH2" H -150 5550 50  0001 C CNN
+F 2 "Laptreus v2_2 Archive Footprints:JSTPH2-with-THT" H -150 5550 50  0001 C CNN
 F 3 "" H -150 5550 50  0001 C CNN
 F 4 "JST PH" H 0   0   50  0001 C CNN "Package"
 F 5 "C375128" H 0   0   50  0001 C CNN "LCSC Part Number"
@@ -4230,17 +3967,6 @@ Text Label 5750 7000 2    49   ~ 0
 LED_STRIP_IN
 Wire Wire Line
 	5750 7000 5950 7000
-$Comp
-L Laptreus-v2:GND #PWR0103
-U 1 1 5DDB4752
-P 6600 8250
-F 0 "#PWR0103" H 6600 8000 50  0001 C CNN
-F 1 "GND" H 6605 8077 50  0000 C CNN
-F 2 "" H 6600 8250 50  0001 C CNN
-F 3 "" H 6600 8250 50  0001 C CNN
-	1    6600 8250
-	0    1    1    0   
-$EndComp
 Text Notes 5250 6500 0    50   ~ 0
 LED STRIP PINS
 Wire Notes Line
@@ -4251,4 +3977,130 @@ Wire Notes Line
 	7450 7850 7450 9850
 Text Notes 5250 8000 0    50   ~ 0
 GROUNDED SCREWS
+$Comp
+L Laptreus-v2_2-archive:BoardOutline BOARD1
+U 1 1 5E55CD45
+P 5550 8250
+F 0 "BOARD1" H 5749 8298 50  0000 L CNN
+F 1 "BoardOutline" H 5749 8207 50  0000 L CNN
+F 2 "Laptreus v2_2 Archive Footprints:60-percent-plus-tofu" H 5550 8250 50  0001 C CNN
+F 3 "~" H 5550 8250 50  0001 C CNN
+	1    5550 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Laptreus-v2:GND #PWR0102
+U 1 1 5E673498
+P 5450 8250
+F 0 "#PWR0102" H 5450 8000 50  0001 C CNN
+F 1 "GND" H 5455 8077 50  0000 C CNN
+F 2 "" H 5450 8250 50  0001 C CNN
+F 3 "" H 5450 8250 50  0001 C CNN
+	1    5450 8250
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 5E715D6D
+P 5400 9350
+F 0 "FID1" H 5485 9396 50  0000 L CNN
+F 1 "Fiducial" H 5485 9305 50  0000 L CNN
+F 2 "Laptreus v2_2 Archive Footprints:FIDUCIAL" H 5400 9350 50  0001 C CNN
+F 3 "~" H 5400 9350 50  0001 C CNN
+	1    5400 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5E7176EA
+P 5400 9600
+F 0 "FID2" H 5485 9646 50  0000 L CNN
+F 1 "Fiducial" H 5485 9555 50  0000 L CNN
+F 2 "Laptreus v2_2 Archive Footprints:FIDUCIAL" H 5400 9600 50  0001 C CNN
+F 3 "~" H 5400 9600 50  0001 C CNN
+	1    5400 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 5E77000D
+P 5900 9350
+F 0 "FID3" H 5985 9396 50  0000 L CNN
+F 1 "Fiducial" H 5985 9305 50  0000 L CNN
+F 2 "Laptreus v2_2 Archive Footprints:FIDUCIAL" H 5900 9350 50  0001 C CNN
+F 3 "~" H 5900 9350 50  0001 C CNN
+	1    5900 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID4
+U 1 1 5E770013
+P 5900 9600
+F 0 "FID4" H 5985 9646 50  0000 L CNN
+F 1 "Fiducial" H 5985 9555 50  0000 L CNN
+F 2 "Laptreus v2_2 Archive Footprints:FIDUCIAL" H 5900 9600 50  0001 C CNN
+F 3 "~" H 5900 9600 50  0001 C CNN
+	1    5900 9600
+	1    0    0    -1  
+$EndComp
+Text Notes 5250 9100 0    50   ~ 0
+FIDUCIALS
+NoConn ~ 5900 9350
+NoConn ~ 5400 9350
+NoConn ~ 5400 9600
+NoConn ~ 5900 9600
+Text Label 5450 8400 0    50   ~ 0
+GND
+Wire Wire Line
+	5450 8250 5450 8400
+Connection ~ 5450 8250
+Text Label 6600 8900 0    50   ~ 0
+GND
+Wire Wire Line
+	6600 8750 6600 8900
+Connection ~ 6600 8750
+$Comp
+L Connector:Screw_Terminal_01x01 S9
+U 1 1 5C610563
+P 6800 8750
+F 0 "S9" H 6880 8792 50  0000 L CNN
+F 1 "Tofu screw" H 6880 8701 50  0000 L CNN
+F 2 "Laptreus v2 Footprints:PKRH" H 6800 8750 50  0001 C CNN
+F 3 "~" H 6800 8750 50  0001 C CNN
+F 4 "Screwhole" H 0   0   50  0001 C CNN "Type"
+	1    6800 8750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Laptreus-v2:GND #PWR020
+U 1 1 5C610569
+P 6600 8750
+F 0 "#PWR020" H 6600 8500 50  0001 C CNN
+F 1 "GND" H 6605 8577 50  0000 C CNN
+F 2 "" H 6600 8750 50  0001 C CNN
+F 3 "" H 6600 8750 50  0001 C CNN
+	1    6600 8750
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:Conn_ARM_JTAG_SWD_10 J3
+U 1 1 5F000962
+P 3750 10500
+F 0 "J3" V 3261 10500 50  0000 C CNN
+F 1 "Conn_ARM_JTAG_SWD_10" V 3170 10500 50  0000 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" H 3750 10500 50  0001 C CNN
+F 3 "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf" V 3400 9250 50  0001 C CNN
+	1    3750 10500
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 4350 10600
+NoConn ~ 3150 10500
+NoConn ~ 3850 10000
+NoConn ~ 3950 10000
+Wire Wire Line
+	3450 9250 3450 10000
+Wire Wire Line
+	3650 10000 3650 9050
+Wire Wire Line
+	3750 10000 3750 9150
 $EndSCHEMATC

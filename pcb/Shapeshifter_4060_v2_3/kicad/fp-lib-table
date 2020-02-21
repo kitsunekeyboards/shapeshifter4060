@@ -1,4 +1,7 @@
 (fp_lib_table
   (lib (name "Laptreus v2 Footprints")(type KiCad)(uri "${KIPRJMOD}/Laptreus v2 Footprints")(options "")(descr ""))
   (lib (name Laptreus-v2)(type KiCad)(uri /Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2)(options "")(descr ""))
+  (lib (name "Laptreus v2_2 Archive Footprints")(type KiCad)(uri "${KIPRJMOD}/archive/v2/Laptreus v2 Footprints")(options "")(descr ""))
+  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type KiCad)(uri "${KIPRJMOD}/archive/v2/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
+  (lib (name "Adafruit NeoPixel Ring 12")(type KiCad)(uri "${KIPRJMOD}/archive/v2/Adafruit NeoPixel Ring 12.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,188 @@
-16859418148887852
+16981022776034425
+Adafruit Feather 32u4 Bluefruit LE
+1X12_ROUND
+
+
+0
+12
+12
+Adafruit Feather 32u4 Bluefruit LE
+1X16_ROUND
+<b>PIN HEADER</b>
+
+0
+16
+16
+Adafruit Feather 32u4 Bluefruit LE
+4UCONN_20329_V2
+
+
+0
+11
+11
+Adafruit Feather 32u4 Bluefruit LE
+0603-NO
+
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+0805-NO
+
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+ADAFRUIT_3.5MM
+
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+BLE_MODULE_RAYTAC_MDBT40
+
+
+0
+42
+42
+Adafruit Feather 32u4 Bluefruit LE
+BLUEFRUITLOGO_100MM
+
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+CHIPLED_0805_NOOUTLINE
+
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+FEATHERLOGO
+
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+FIDUCIAL_1MM
+
+
+0
+1
+1
+Adafruit Feather 32u4 Bluefruit LE
+JSTPH2
+2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
+
+0
+4
+4
+Adafruit Feather 32u4 Bluefruit LE
+KMR2
+
+
+0
+4
+4
+Adafruit Feather 32u4 Bluefruit LE
+MOUNTINGHOLE_2.5_PLATED
+
+
+0
+1
+1
+Adafruit Feather 32u4 Bluefruit LE
+PAD-1.5X2.0
+1.5 x 2.0mm SMT pad (no solder paste)
+
+0
+1
+1
+Adafruit Feather 32u4 Bluefruit LE
+PCBFEAT-REV-040
+<b>Revision Level Field</b> - 40 mil<p>
+Set version with global board attribute '>REV'
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+RESONATOR-SMD
+
+
+0
+3
+3
+Adafruit Feather 32u4 Bluefruit LE
+SOD-123
+<b>SOD-123</b>
+<p>Source: http://www.diodes.com/datasheets/ds30139.pdf</p>
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+SOT23-5
+<b>Small Outline Transistor</b> - 5 Pin
+
+0
+5
+5
+Adafruit Feather 32u4 Bluefruit LE
+TQFN44_7MM
+<p><b>Source: </b>http://datasheets.maxim-ic.com/en/ds/MAX9744.pdf</p>
+
+0
+45
+45
+Adafruit Feather 32u4 Bluefruit LE
+_0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Adafruit NeoPixel Ring 12
+1X01-CLEANBIG
+
+
+0
+1
+1
+Adafruit NeoPixel Ring 12
+ADAFRUIT_5MM
+
+
+0
+0
+0
+Adafruit NeoPixel Ring 12
+C0603
+<b>CAPACITOR</b>
+
+0
+2
+2
+Adafruit NeoPixel Ring 12
+GUIDE-STAR-12
+
+
+0
+0
+0
+Adafruit NeoPixel Ring 12
+WS28115050
+
+
+0
+6
+6
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49986,251 +50170,6 @@ solder jumper open
 0
 5
 3
-Kitsune_Footprints
-0805-NO
-
-
-0
-2
-2
-Kitsune_Footprints
-67503
-http://www.tme.eu/pl/Document/af7e127923dc7f74ac659db082bbc882/mx54819.pdf
-54819
-0
-9
-5
-Kitsune_Footprints
-Adafruit Feather 32u4 BLE
-
-
-0
-28
-28
-Kitsune_Footprints
-Capacitor-0805MP
-<b>0805 MicroPitch</b>
-
-0
-2
-2
-Kitsune_Footprints
-Copper Ring 18mm
-
-
-0
-0
-0
-Kitsune_Footprints
-Diode-dual
-
-
-0
-6
-2
-Kitsune_Footprints
-EG1218
-
-
-0
-3
-3
-Kitsune_Footprints
-FIDUCIAL
-
-
-0
-1
-1
-Kitsune_Footprints
-HOLE_M2.0
-
-
-0
-1
-1
-Kitsune_Footprints
-HOLE_M2.6
-
-
-0
-1
-1
-Kitsune_Footprints
-HOLE_M3
-
-
-0
-1
-1
-Kitsune_Footprints
-HRO-TYPE-C-31-M-12
-
-
-0
-16
-13
-Kitsune_Footprints
-Hybrid_Kailh_MX_Socket
-
-
-0
-5
-2
-Kitsune_Footprints
-Hybrid_Kailh_MX_Socket_No_Alignment_Pad
-
-
-0
-2
-2
-Kitsune_Footprints
-Hybrid_Kailh_MX_Socket_Through_Hole
-
-
-0
-12
-2
-Kitsune_Footprints
-Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad
-
-
-0
-11
-2
-Kitsune_Footprints
-JSTPH2-with-THT
-2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
-
-0
-8
-4
-Kitsune_Footprints
-KSEM31GLFS
-http://www.dip.com.tw/PDF/DTSJW-6-V.pdf
-microswitch tact
-0
-4
-4
-Kitsune_Footprints
-Kailh_MX_Socket_Through_Hole
-
-
-0
-4
-2
-Kitsune_Footprints
-PKRH
-
-
-0
-1
-1
-Kitsune_Footprints
-PKRH-Round
-
-
-0
-1
-1
-Kitsune_Footprints
-PKRH-Slim
-
-
-0
-1
-1
-Kitsune_Footprints
-PKRHSL
-
-
-0
-1
-1
-Kitsune_Footprints
-PKRHSL-NPTH
-
-
-0
-0
-0
-Kitsune_Footprints
-PlateLayout
-
-
-0
-0
-0
-Kitsune_Footprints
-RESONATOR-SMD
-
-
-0
-3
-3
-Kitsune_Footprints
-SW_SPST_B3U-1000P
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
-Tactile Switch
-0
-2
-2
-Kitsune_Footprints
-TQFP-44_10x10mm_P0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-Kitsune_Footprints
-USBLC6-2SC6
-6-pin SOT-23 package
-SOT-23-6
-0
-6
-6
-Kitsune_Footprints
-_0805MP
-<b>0805 MicroPitch</b>
-
-0
-2
-2
-Kitsune_Footprints
-case-outside-dimensions
-
-
-0
-0
-0
-Kitsune_Footprints
-full-silk
-
-
-0
-0
-0
-Kitsune_Footprints
-isp_standard
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-6
-6
-Kitsune_Footprints
-switch-hole-dimensions
-
-
-0
-0
-0
-Kitsune_Footprints
-switch-plate
-
-
-0
-0
-0
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -51337,6 +51276,608 @@ Yellow 5381 Series LED
 0
 2
 2
+Laptreus v2 Footprints
+0805-NO
+
+
+0
+2
+2
+Laptreus v2 Footprints
+67503
+http://www.tme.eu/pl/Document/af7e127923dc7f74ac659db082bbc882/mx54819.pdf
+54819
+0
+9
+5
+Laptreus v2 Footprints
+Adafruit Feather 32u4 BLE
+
+
+0
+28
+28
+Laptreus v2 Footprints
+Capacitor-0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Laptreus v2 Footprints
+Copper Ring 18mm
+
+
+0
+0
+0
+Laptreus v2 Footprints
+Diode-dual
+
+
+0
+6
+2
+Laptreus v2 Footprints
+EG1218
+
+
+0
+3
+3
+Laptreus v2 Footprints
+FIDUCIAL
+
+
+0
+1
+1
+Laptreus v2 Footprints
+HOLE_M2.0
+
+
+0
+1
+1
+Laptreus v2 Footprints
+HOLE_M2.6
+
+
+0
+1
+1
+Laptreus v2 Footprints
+HOLE_M3
+
+
+0
+1
+1
+Laptreus v2 Footprints
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Laptreus v2 Footprints
+Hybrid_Kailh_MX_Socket
+
+
+0
+5
+2
+Laptreus v2 Footprints
+Hybrid_Kailh_MX_Socket_No_Alignment_Pad
+
+
+0
+2
+2
+Laptreus v2 Footprints
+Hybrid_Kailh_MX_Socket_Through_Hole
+
+
+0
+12
+2
+Laptreus v2 Footprints
+Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad
+
+
+0
+11
+2
+Laptreus v2 Footprints
+JSTPH2-with-THT
+2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
+
+0
+8
+4
+Laptreus v2 Footprints
+KSEM31GLFS
+http://www.dip.com.tw/PDF/DTSJW-6-V.pdf
+microswitch tact
+0
+4
+4
+Laptreus v2 Footprints
+Kailh_MX_Socket_Through_Hole
+
+
+0
+4
+2
+Laptreus v2 Footprints
+PKRH
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRH-Round
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRH-Slim
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRHSL
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRHSL-NPTH
+
+
+0
+0
+0
+Laptreus v2 Footprints
+PlateLayout
+
+
+0
+0
+0
+Laptreus v2 Footprints
+RESONATOR-SMD
+
+
+0
+3
+3
+Laptreus v2 Footprints
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+Laptreus v2 Footprints
+TQFP-44_10x10mm_P0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+Laptreus v2 Footprints
+USBLC6-2SC6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Laptreus v2 Footprints
+_0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Laptreus v2 Footprints
+case-outside-dimensions
+
+
+0
+0
+0
+Laptreus v2 Footprints
+full-silk
+
+
+0
+0
+0
+Laptreus v2 Footprints
+isp_standard
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+Laptreus v2 Footprints
+switch-hole-dimensions
+
+
+0
+0
+0
+Laptreus v2 Footprints
+switch-plate
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+60-percent-plus-tofu
+
+
+0
+65
+1
+Laptreus v2_2 Archive Footprints
+0805-NO
+
+
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+67503
+http://www.tme.eu/pl/Document/af7e127923dc7f74ac659db082bbc882/mx54819.pdf
+54819
+0
+9
+5
+Laptreus v2_2 Archive Footprints
+Adafruit Feather 32u4 BLE
+
+
+0
+28
+28
+Laptreus v2_2 Archive Footprints
+Capacitor-0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+Copper Ring 18mm
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+D_SOD-323_With_Adhesive
+SOD-323
+SOD-323
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+Diode-0805
+
+
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+Diode-dual
+
+
+0
+6
+2
+Laptreus v2_2 Archive Footprints
+EG1218
+
+
+0
+3
+3
+Laptreus v2_2 Archive Footprints
+FIDUCIAL
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+Fuse_1812_4532Metric_With_Adhesive
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+HOLE_M2.0
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+HOLE_M2.6
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+HOLE_M3
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Laptreus v2_2 Archive Footprints
+HRO-TYPE-C-31-M-12-Minus-Blank-Pads
+
+
+0
+14
+11
+Laptreus v2_2 Archive Footprints
+Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode
+
+
+0
+9
+2
+Laptreus v2_2 Archive Footprints
+Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace
+
+
+0
+9
+2
+Laptreus v2_2 Archive Footprints
+Hybrid_Kailh_MX_Socket
+
+
+0
+5
+2
+Laptreus v2_2 Archive Footprints
+Hybrid_Kailh_MX_Socket_No_Alignment_Pad
+
+
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+Hybrid_Kailh_MX_Socket_Through_Hole
+
+
+0
+12
+2
+Laptreus v2_2 Archive Footprints
+Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad
+
+
+0
+11
+2
+Laptreus v2_2 Archive Footprints
+JSTPH2-with-THT
+2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
+
+0
+8
+4
+Laptreus v2_2 Archive Footprints
+JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal_With_Adhesive
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+6
+5
+Laptreus v2_2 Archive Footprints
+KSEM31GLFS
+http://www.dip.com.tw/PDF/DTSJW-6-V.pdf
+microswitch tact
+0
+4
+4
+Laptreus v2_2 Archive Footprints
+Kailh_MX_Socket_Through_Hole
+
+
+0
+4
+2
+Laptreus v2_2 Archive Footprints
+Kailh_Socket_With_Diode_No_Diode_Trace
+
+
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+Kitty
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+LED_0603_1608Metric_Castellated_With_Adhesive
+LED SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+Outline
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+PKRH
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+PKRH-Round
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+PKRH-Slim
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+PKRHSL
+
+
+0
+1
+1
+Laptreus v2_2 Archive Footprints
+PKRHSL-NPTH
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+PlateLayout
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+RESONATOR-SMD
+
+
+0
+3
+3
+Laptreus v2_2 Archive Footprints
+R_0603_1608Metric_With_Adhesive
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+SOT-143_With_Adhesive
+SOT-143
+SOT-143
+0
+4
+4
+Laptreus v2_2 Archive Footprints
+SOT143B
+
+
+0
+4
+4
+Laptreus v2_2 Archive Footprints
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+TQFP-44_10x10mm_P0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+Laptreus v2_2 Archive Footprints
+USBLC6-2SC6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Laptreus v2_2 Archive Footprints
+UT47-outline
+
+
+0
+44
+1
+Laptreus v2_2 Archive Footprints
+_0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Laptreus v2_2 Archive Footprints
+case-outside-dimensions
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+full-silk
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+isp_standard
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+Laptreus v2_2 Archive Footprints
+switch-hole-dimensions
+
+
+0
+0
+0
+Laptreus v2_2 Archive Footprints
+switch-plate
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
