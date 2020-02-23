@@ -1,4 +1,11 @@
-16981022776034425
+17020584731959871
+ARM-JTAG-SWD
+ARM-JTAG-10-SWD-IDC
+
+
+0
+10
+10
 Adafruit Feather 32u4 Bluefruit LE
 1X12_ROUND
 
@@ -51410,6 +51417,13 @@ Kailh_MX_Socket_Through_Hole
 4
 2
 Laptreus v2 Footprints
+LED_0603_1608Metric_Castellated
+LED SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+Laptreus v2 Footprints
 PKRH
 
 
@@ -51527,6 +51541,13 @@ Laptreus v2_2 Archive Footprints
 
 0
 65
+1
+Laptreus v2_2 Archive Footprints
+60-percent-plus-tofu-no-center-holes
+
+
+0
+51
 1
 Laptreus v2_2 Archive Footprints
 0805-NO
@@ -69217,6 +69238,160 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+Shapeshifter 4060 Footprints
+1X01-CLEANBIG
+
+
+0
+1
+1
+Shapeshifter 4060 Footprints
+3_Pin_SMD_Resonator
+
+
+0
+3
+3
+Shapeshifter 4060 Footprints
+5mm_M2.5_Screw_Hole_Plated
+
+
+0
+1
+1
+Shapeshifter 4060 Footprints
+60_percent_plus_tofu_no_center_holes
+
+
+0
+51
+1
+Shapeshifter 4060 Footprints
+ARM_JTAG_10_SWD_IDC
+
+
+0
+10
+10
+Shapeshifter 4060 Footprints
+BLE_MODULE_RAYTAC_MDBT40
+
+
+0
+42
+42
+Shapeshifter 4060 Footprints
+Capacitor_0805_MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Shapeshifter 4060 Footprints
+D_SOD-323_With_Test_Points
+SOD-323
+SOD-323
+0
+6
+2
+Shapeshifter 4060 Footprints
+EG1218
+
+
+0
+3
+3
+Shapeshifter 4060 Footprints
+FIDUCIAL
+
+
+0
+1
+1
+Shapeshifter 4060 Footprints
+Fuse_1812_4532Metric
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Shapeshifter 4060 Footprints
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Shapeshifter 4060 Footprints
+ISP_Standard
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+Shapeshifter 4060 Footprints
+JSTPH2_With_THT
+2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
+
+0
+8
+4
+Shapeshifter 4060 Footprints
+Kailh_Socket_With_Diode
+
+
+0
+2
+2
+Shapeshifter 4060 Footprints
+Kailh_Socket_With_Diode_And_THT
+
+
+0
+9
+2
+Shapeshifter 4060 Footprints
+LED_0603_1608Metric_Castellated
+LED SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+Shapeshifter 4060 Footprints
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Shapeshifter 4060 Footprints
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+Shapeshifter 4060 Footprints
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Shapeshifter 4060 Footprints
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+Shapeshifter 4060 Footprints
+TQFP-44_10x10mm_P0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)

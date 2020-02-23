@@ -4,4 +4,6 @@
   (lib (name "Laptreus v2_2 Archive Footprints")(type KiCad)(uri "${KIPRJMOD}/archive/v2/Laptreus v2 Footprints")(options "")(descr ""))
   (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type KiCad)(uri "${KIPRJMOD}/archive/v2/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
   (lib (name "Adafruit NeoPixel Ring 12")(type KiCad)(uri "${KIPRJMOD}/archive/v2/Adafruit NeoPixel Ring 12.pretty")(options "")(descr ""))
+  (lib (name ARM-JTAG-SWD)(type KiCad)(uri ${KIPRJMOD}/ARM-JTAG-SWD)(options "")(descr ""))
+  (lib (name "Shapeshifter 4060 Footprints")(type KiCad)(uri "/Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v2_3/kicad/Shapeshifter 4060 Footprints.pretty")(options "")(descr ""))
 )
