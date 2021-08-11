@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Laptreus v2 Footprints")(type KiCad)(uri "${KIPRJMOD}/Laptreus v2 Footprints")(options "")(descr ""))
   (lib (name Laptreus-v2)(type KiCad)(uri /Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2)(options "")(descr ""))
+  (lib (name Kitsune-Footprints)(type KiCad)(uri /Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v3/kicad/Kitsune-Footprints.pretty)(options "")(descr ""))
 )
