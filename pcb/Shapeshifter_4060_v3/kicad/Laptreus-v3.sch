@@ -985,7 +985,7 @@ U 1 1 6117E601
 P 7400 4300
 F 0 "D48" H 7400 4565 50  0000 C CNN
 F 1 "DIODE" H 7400 4474 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7400 4300 50  0001 C CNN
+F 2 "Kitsune-Footprints:Diode-dual" H 7400 4300 50  0001 C CNN
 F 3 "~" H 7400 4300 50  0001 C CNN
 	1    7400 4300
 	-1   0    0    -1  
