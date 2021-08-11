@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Kitsune-Footprints)(type KiCad)(uri ${KIPRJMOD}/Kitsune-Footprints.pretty)(options "")(descr ""))
+)

@@ -1,1 +1,15 @@
-../../common_elements/pcbs/sym-lib-table
+(sym_lib_table
+  (lib (name Kitsune-Symbols)(type Legacy)(uri ${KIPRJMOD}/Kitsune-Symbols.lib)(options "")(descr ""))
+  (lib (name Laptreus-v2)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2-eagle-import.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v2-cache)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2-cache.lib)(options "")(descr "")(disabled))
+  (lib (name Adafruit_Feather_32u4_Bluefruit_LE-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Adafruit_Feather_32u4_Bluefruit_LE-eagle-import.lib)(options "")(descr "")(disabled))
+  (lib (name Adafruit-parts)(type Legacy)(uri ${KIPRJMOD}/Adafruit-parts.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v3-cache)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v3-cache.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v1-rescue)(type Legacy)(uri /Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v2_3/kicad/archive/v1/Laptreus-v1-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v1-cache)(type Legacy)(uri /Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v2_3/kicad/archive/v1/Laptreus-v1-cache.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus-v1-eagle-import)(type Legacy)(uri /Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v2_3/kicad/archive/v1/Laptreus-v1-eagle-import.lib)(options "")(descr "")(disabled))
+  (lib (name Laptreus)(type Legacy)(uri /Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v2_3/kicad/archive/v1/Laptreus.lib)(options "")(descr "")(disabled))
+  (lib (name diode)(type Legacy)(uri ${KIPRJMOD}/Kitsune-Symbols/diode.lib)(options "")(descr "")(disabled))
+)
