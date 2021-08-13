@@ -88,8 +88,6 @@ Wire Wire Line
 	3200 1250 3200 1600
 Wire Wire Line
 	2800 1600 2750 1600
-Wire Wire Line
-	2750 1600 2750 2150
 $Comp
 L pspice:DIODE D5
 U 1 1 6112A9CD
@@ -1566,29 +1564,29 @@ F 3 "" V 3850 3600 60  0001 C CNN
 	1    2800 6100
 	1    0    0    -1  
 $EndComp
-Text Label 2100 5950 2    50   ~ 0
-COL0
 Text Label 2100 6050 2    50   ~ 0
+COL0
+Text Label 2100 5950 2    50   ~ 0
 COL1
-Text Label 2100 6150 2    50   ~ 0
-COL2
-Text Label 2100 6250 2    50   ~ 0
-COL3
-Text Label 2100 6350 2    50   ~ 0
-COL4
-Text Label 2100 6450 2    50   ~ 0
-COL5
-Text Label 2100 6550 2    50   ~ 0
-COL6
-Text Label 2100 6650 2    50   ~ 0
-COL7
-Text Label 3500 6650 0    50   ~ 0
-COL8
-Text Label 3500 6550 0    50   ~ 0
-COL9
-Text Label 3500 6450 0    50   ~ 0
-COL10
 Text Label 3500 6350 0    50   ~ 0
+COL2
+Text Label 3500 6450 0    50   ~ 0
+COL3
+Text Label 3500 6550 0    50   ~ 0
+COL4
+Text Label 3500 6650 0    50   ~ 0
+COL5
+Text Label 2100 6650 2    50   ~ 0
+COL6
+Text Label 2100 6550 2    50   ~ 0
+COL7
+Text Label 2100 6450 2    50   ~ 0
+COL8
+Text Label 2100 6350 2    50   ~ 0
+COL9
+Text Label 2100 6250 2    50   ~ 0
+COL10
+Text Label 2100 6150 2    50   ~ 0
 COL11
 Text Label 3500 6250 0    50   ~ 0
 ROW3
@@ -1623,19 +1621,6 @@ Wire Wire Line
 Wire Wire Line
 	2300 1800 2300 2150
 Connection ~ 2300 1800
-Wire Wire Line
-	2300 1800 2800 1800
-Wire Wire Line
-	2800 1800 2800 2150
-Wire Wire Line
-	2800 2150 2750 2150
-Connection ~ 2800 1800
-Wire Wire Line
-	2800 1800 3300 1800
-Connection ~ 2800 2150
-Connection ~ 2750 2150
-Wire Wire Line
-	2750 2150 2750 2500
 Wire Wire Line
 	3300 1800 3300 2150
 Connection ~ 3300 1800
@@ -1936,4 +1921,13 @@ $EndComp
 Wire Wire Line
 	7500 5250 7600 5250
 Connection ~ 7600 5250
+Wire Wire Line
+	2300 1800 2800 1800
+Wire Wire Line
+	2750 1600 2750 2500
+Wire Wire Line
+	2800 2150 2800 1800
+Connection ~ 2800 1800
+Wire Wire Line
+	2800 1800 3300 1800
 $EndSCHEMATC
