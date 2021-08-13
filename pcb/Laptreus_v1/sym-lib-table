@@ -2,4 +2,5 @@
   (lib (name Laptreus-v1-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v1-eagle-import.lib)(options "")(descr ""))
   (lib (name Laptreus-v1-rescue)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v1-rescue.lib)(options "")(descr ""))
   (lib (name CPL)(type Legacy)(uri /Users/vosechu/github/vosechu/keyboards/CPL-KiCad-Library/CPL.lib)(options "")(descr ""))
+  (lib (name Kitsune-Symbols)(type Legacy)(uri /Users/chuck/github/shapeshifter4060/pcb/Shapeshifter_4060_v3/kicad/Kitsune-Symbols.lib)(options "")(descr ""))
 )

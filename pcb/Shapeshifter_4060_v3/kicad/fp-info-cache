@@ -1,4 +1,4 @@
-16885653523250802
+16898683466407845
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50288,6 +50288,27 @@ PlateLayout
 0
 0
 Kitsune-Footprints
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+Kitsune-Footprints
+ProMicro-EnforcedTop
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+Kitsune-Footprints
+ProMicro-NoSilk
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+Kitsune-Footprints
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor
@@ -50336,6 +50357,13 @@ full-silk
 0
 0
 0
+Kitsune-Footprints
+nice_nano
+
+
+0
+27
+27
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -75046,3 +75074,31 @@ varistor SIOV
 0
 2
 2
+nice-nano-kicad
+nice_nano
+
+
+0
+27
+27
+promicro
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+promicro
+ProMicro-EnforcedTop
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+promicro
+ProMicro-NoSilk
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24

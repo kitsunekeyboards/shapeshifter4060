@@ -38,7 +38,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 1600 1250 2500
 Wire Wire Line
-	1300 900  4700 900 
+	1300 900  1800 900 
 $Comp
 L pspice:DIODE D2
 U 1 1 61128B89
@@ -52,8 +52,6 @@ F 3 "~" H 2000 1600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2200 1250 2200 1600
-Wire Wire Line
-	1800 1250 1800 900 
 Wire Wire Line
 	1800 1600 1750 1600
 Wire Wire Line
@@ -72,8 +70,6 @@ $EndComp
 Wire Wire Line
 	2700 1250 2700 1600
 Wire Wire Line
-	2300 1250 2300 900 
-Wire Wire Line
 	2300 1600 2250 1600
 Wire Wire Line
 	2250 1600 2250 2500
@@ -91,11 +87,9 @@ $EndComp
 Wire Wire Line
 	3200 1250 3200 1600
 Wire Wire Line
-	2800 1250 2800 900 
-Wire Wire Line
 	2800 1600 2750 1600
 Wire Wire Line
-	2750 1600 2750 2500
+	2750 1600 2750 2150
 $Comp
 L pspice:DIODE D5
 U 1 1 6112A9CD
@@ -109,8 +103,6 @@ F 3 "~" H 3500 1600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3700 1250 3700 1600
-Wire Wire Line
-	3300 1250 3300 900 
 Wire Wire Line
 	3300 1600 3250 1600
 Wire Wire Line
@@ -128,8 +120,6 @@ F 3 "~" H 4000 1600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4200 1250 4200 1600
-Wire Wire Line
-	3800 1250 3800 900 
 Wire Wire Line
 	3800 1600 3750 1600
 Wire Wire Line
@@ -288,7 +278,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 2500 1250 3400
 Wire Wire Line
-	1300 1800 4700 1800
+	1300 1800 1800 1800
 $Comp
 L pspice:DIODE D14
 U 1 1 6115C0E2
@@ -302,8 +292,6 @@ F 3 "~" H 2000 2500 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2200 2150 2200 2500
-Wire Wire Line
-	1800 2150 1800 1800
 Wire Wire Line
 	1800 2500 1750 2500
 Wire Wire Line
@@ -322,8 +310,6 @@ $EndComp
 Wire Wire Line
 	2700 2150 2700 2500
 Wire Wire Line
-	2300 2150 2300 1800
-Wire Wire Line
 	2300 2500 2250 2500
 Wire Wire Line
 	2250 2500 2250 3400
@@ -340,8 +326,6 @@ F 3 "~" H 3000 2500 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3200 2150 3200 2500
-Wire Wire Line
-	2800 2150 2800 1800
 Wire Wire Line
 	2800 2500 2750 2500
 Wire Wire Line
@@ -360,8 +344,6 @@ $EndComp
 Wire Wire Line
 	3700 2150 3700 2500
 Wire Wire Line
-	3300 2150 3300 1800
-Wire Wire Line
 	3300 2500 3250 2500
 Wire Wire Line
 	3250 2500 3250 3400
@@ -378,8 +360,6 @@ F 3 "~" H 4000 2500 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4200 2150 4200 2500
-Wire Wire Line
-	3800 2150 3800 1800
 Wire Wire Line
 	3800 2500 3750 2500
 Wire Wire Line
@@ -538,7 +518,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 3400 1250 4300
 Wire Wire Line
-	1300 2700 4700 2700
+	1300 2700 1800 2700
 $Comp
 L pspice:DIODE D26
 U 1 1 6116B62D
@@ -552,8 +532,6 @@ F 3 "~" H 2000 3400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2200 3050 2200 3400
-Wire Wire Line
-	1800 3050 1800 2700
 Wire Wire Line
 	1800 3400 1750 3400
 Wire Wire Line
@@ -572,8 +550,6 @@ $EndComp
 Wire Wire Line
 	2700 3050 2700 3400
 Wire Wire Line
-	2300 3050 2300 2700
-Wire Wire Line
 	2300 3400 2250 3400
 Wire Wire Line
 	2250 3400 2250 4300
@@ -590,8 +566,6 @@ F 3 "~" H 3000 3400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3200 3050 3200 3400
-Wire Wire Line
-	2800 3050 2800 2700
 Wire Wire Line
 	2800 3400 2750 3400
 Wire Wire Line
@@ -610,11 +584,7 @@ $EndComp
 Wire Wire Line
 	3700 3050 3700 3400
 Wire Wire Line
-	3300 3050 3300 2700
-Wire Wire Line
 	3300 3400 3250 3400
-Wire Wire Line
-	3250 3400 3250 4300
 $Comp
 L pspice:DIODE D30
 U 1 1 6116B66D
@@ -628,8 +598,6 @@ F 3 "~" H 4000 3400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4200 3050 4200 3400
-Wire Wire Line
-	3800 3050 3800 2700
 Wire Wire Line
 	3800 3400 3750 3400
 Wire Wire Line
@@ -787,8 +755,6 @@ Wire Wire Line
 	1300 4300 1250 4300
 Wire Wire Line
 	1250 4300 1250 4750
-Wire Wire Line
-	1300 3600 4700 3600
 $Comp
 L pspice:DIODE D38
 U 1 1 6117E561
@@ -802,8 +768,6 @@ F 3 "~" H 2000 4300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2200 3950 2200 4300
-Wire Wire Line
-	1800 3950 1800 3600
 Wire Wire Line
 	1800 4300 1750 4300
 Wire Wire Line
@@ -822,8 +786,6 @@ $EndComp
 Wire Wire Line
 	2700 3950 2700 4300
 Wire Wire Line
-	2300 3950 2300 3600
-Wire Wire Line
 	2300 4300 2250 4300
 Wire Wire Line
 	2250 4300 2250 4750
@@ -840,8 +802,6 @@ F 3 "~" H 3000 4300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3200 3950 3200 4300
-Wire Wire Line
-	2800 3950 2800 3600
 Wire Wire Line
 	2800 4300 2750 4300
 Wire Wire Line
@@ -860,8 +820,6 @@ $EndComp
 Wire Wire Line
 	3700 3950 3700 4300
 Wire Wire Line
-	3300 3950 3300 3600
-Wire Wire Line
 	3300 4300 3250 4300
 Wire Wire Line
 	3250 4300 3250 4750
@@ -878,8 +836,6 @@ F 3 "~" H 4000 4300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4200 3950 4200 4300
-Wire Wire Line
-	3800 3950 3800 3600
 Wire Wire Line
 	3800 4300 3750 4300
 Wire Wire Line
@@ -1319,7 +1275,7 @@ U 1 1 6115C17C
 P 7400 2150
 F 0 "SW24" H 7400 2435 50  0000 C CNN
 F 1 "ENTER" H 7400 2344 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7400 2350 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 7400 2350 50  0001 C CNN
 F 3 "~" H 7400 2350 50  0001 C CNN
 	1    7400 2150
 	1    0    0    -1  
@@ -1330,7 +1286,7 @@ U 1 1 6115C16C
 P 6900 2150
 F 0 "SW23" H 6900 2435 50  0000 C CNN
 F 1 ";" H 6900 2344 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6900 2350 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 6900 2350 50  0001 C CNN
 F 3 "~" H 6900 2350 50  0001 C CNN
 	1    6900 2150
 	1    0    0    -1  
@@ -1429,7 +1385,7 @@ U 1 1 6115C0DC
 P 2000 2150
 F 0 "SW14" H 2000 2435 50  0000 C CNN
 F 1 "A" H 2000 2344 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2000 2350 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 2000 2350 50  0001 C CNN
 F 3 "~" H 2000 2350 50  0001 C CNN
 	1    2000 2150
 	1    0    0    -1  
@@ -1440,7 +1396,7 @@ U 1 1 6115C0C8
 P 1500 2150
 F 0 "SW13" H 1500 2435 50  0000 C CNN
 F 1 "ESC" H 1500 2344 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 2350 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 1500 2350 50  0001 C CNN
 F 3 "~" H 1500 2350 50  0001 C CNN
 	1    1500 2150
 	1    0    0    -1  
@@ -1577,4 +1533,407 @@ F 3 "~" H 1500 1450 50  0001 C CNN
 	1    1500 1250
 	1    0    0    -1  
 $EndComp
+$Comp
+L Kitsune-Symbols:+3V3 #+3V030101
+U 1 1 6115A65D
+P 3650 5450
+F 0 "#+3V030101" H 3650 5450 50  0001 C CNN
+F 1 "+3V3" H 3650 5572 59  0000 C CNN
+F 2 "" H 3650 5450 50  0001 C CNN
+F 3 "" H 3650 5450 50  0001 C CNN
+	1    3650 5450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 5550 3650 5550
+Wire Wire Line
+	2100 5750 1950 5750
+Wire Wire Line
+	2100 5850 1950 5850
+Wire Wire Line
+	1950 5850 1950 5750
+Connection ~ 1950 5750
+Wire Wire Line
+	1950 5750 1700 5750
+$Comp
+L nice_nano:nice_nano U1
+U 1 1 611E97A2
+P 2800 6100
+F 0 "U1" H 2800 7037 60  0000 C CNN
+F 1 "nice_nano" H 2800 6931 60  0000 C CNN
+F 2 "Kitsune-Footprints:nice_nano" V 3850 3600 60  0001 C CNN
+F 3 "" V 3850 3600 60  0001 C CNN
+	1    2800 6100
+	1    0    0    -1  
+$EndComp
+Text Label 2100 5950 2    50   ~ 0
+COL0
+Text Label 2100 6050 2    50   ~ 0
+COL1
+Text Label 2100 6150 2    50   ~ 0
+COL2
+Text Label 2100 6250 2    50   ~ 0
+COL3
+Text Label 2100 6350 2    50   ~ 0
+COL4
+Text Label 2100 6450 2    50   ~ 0
+COL5
+Text Label 2100 6550 2    50   ~ 0
+COL6
+Text Label 2100 6650 2    50   ~ 0
+COL7
+Text Label 3500 6650 0    50   ~ 0
+COL8
+Text Label 3500 6550 0    50   ~ 0
+COL9
+Text Label 3500 6450 0    50   ~ 0
+COL10
+Text Label 3500 6350 0    50   ~ 0
+COL11
+Text Label 3500 6250 0    50   ~ 0
+ROW3
+Text Label 3500 6150 0    50   ~ 0
+ROW2
+Text Label 3500 6050 0    50   ~ 0
+ROW1
+Text Label 3500 5950 0    50   ~ 0
+ROW0
+Text Label 3500 5750 0    50   ~ 0
+RESET
+$Comp
+L Kitsune-Symbols:SW_Push SW_RESET_1
+U 1 1 6129A455
+P 5500 5650
+F 0 "SW_RESET_1" H 5500 5935 50  0000 C CNN
+F 1 "RESET" H 5500 5844 50  0000 C CNN
+F 2 "Kitsune-Footprints:SW_SPST_B3U-1000P" H 5500 5850 50  0001 C CNN
+F 3 "" H 5500 5850 50  0001 C CNN
+	1    5500 5650
+	1    0    0    -1  
+$EndComp
+Text Label 5300 5650 2    50   ~ 0
+RESET
+Wire Wire Line
+	1300 3600 1800 3600
+Wire Wire Line
+	1800 1800 1800 2150
+Connection ~ 1800 1800
+Wire Wire Line
+	1800 1800 2300 1800
+Wire Wire Line
+	2300 1800 2300 2150
+Connection ~ 2300 1800
+Wire Wire Line
+	2300 1800 2800 1800
+Wire Wire Line
+	2800 1800 2800 2150
+Wire Wire Line
+	2800 2150 2750 2150
+Connection ~ 2800 1800
+Wire Wire Line
+	2800 1800 3300 1800
+Connection ~ 2800 2150
+Connection ~ 2750 2150
+Wire Wire Line
+	2750 2150 2750 2500
+Wire Wire Line
+	3300 1800 3300 2150
+Connection ~ 3300 1800
+Wire Wire Line
+	3300 1800 3800 1800
+Wire Wire Line
+	3800 1800 3800 2150
+Connection ~ 3800 1800
+Wire Wire Line
+	3800 1800 4700 1800
+Wire Wire Line
+	3800 2700 3800 3050
+Connection ~ 3800 2700
+Wire Wire Line
+	3800 2700 4700 2700
+Wire Wire Line
+	3300 2700 3300 3050
+Connection ~ 3300 2700
+Wire Wire Line
+	3300 2700 3800 2700
+Wire Wire Line
+	2800 2700 2800 3050
+Connection ~ 2800 2700
+Wire Wire Line
+	2800 2700 3300 2700
+Wire Wire Line
+	2300 2700 2300 3050
+Connection ~ 2300 2700
+Wire Wire Line
+	2300 2700 2800 2700
+Wire Wire Line
+	1800 2700 1800 3050
+Connection ~ 1800 2700
+Wire Wire Line
+	1800 2700 2300 2700
+Wire Wire Line
+	1800 3950 1800 3600
+Connection ~ 1800 3600
+Wire Wire Line
+	1800 3600 2300 3600
+Wire Wire Line
+	2300 3600 2300 3950
+Connection ~ 2300 3600
+Wire Wire Line
+	2300 3600 2800 3600
+Wire Wire Line
+	2800 3950 2800 3600
+Connection ~ 2800 3600
+Wire Wire Line
+	3800 3950 3800 3600
+Connection ~ 3800 3600
+Wire Wire Line
+	3800 3600 4700 3600
+Wire Wire Line
+	2800 3600 3300 3600
+Wire Wire Line
+	3250 3400 3250 4300
+Wire Wire Line
+	3300 3950 3300 3600
+Connection ~ 3300 3600
+Wire Wire Line
+	3300 3600 3800 3600
+Wire Wire Line
+	3800 1250 3800 900 
+Connection ~ 3800 900 
+Wire Wire Line
+	3800 900  4700 900 
+Wire Wire Line
+	3300 900  3300 1250
+Connection ~ 3300 900 
+Wire Wire Line
+	3300 900  3800 900 
+Wire Wire Line
+	2800 1250 2800 900 
+Connection ~ 2800 900 
+Wire Wire Line
+	2800 900  3300 900 
+Wire Wire Line
+	2300 1250 2300 900 
+Connection ~ 2300 900 
+Wire Wire Line
+	2300 900  2800 900 
+Wire Wire Line
+	1800 1250 1800 900 
+Connection ~ 1800 900 
+Wire Wire Line
+	1800 900  2300 900 
+NoConn ~ 2500 7150
+NoConn ~ 2650 7150
+NoConn ~ 2800 7150
+$Comp
+L Connector_Generic:Conn_01x01 JP3
+U 1 1 616985C9
+P 6650 5400
+F 0 "JP3" H 6730 5442 50  0000 L CNN
+F 1 "Conn_01x01" H 6730 5351 50  0000 L CNN
+F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5400 50  0001 C CNN
+F 3 "~" H 6650 5400 50  0001 C CNN
+	1    6650 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 JP2
+U 1 1 6169969C
+P 6650 5550
+F 0 "JP2" H 6730 5546 50  0000 L CNN
+F 1 "Conn_01x01" H 6730 5501 50  0001 L CNN
+F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5550 50  0001 C CNN
+F 3 "~" H 6650 5550 50  0001 C CNN
+	1    6650 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 JP1
+U 1 1 61699B10
+P 6650 5700
+F 0 "JP1" H 6730 5696 50  0000 L CNN
+F 1 "Conn_01x01" H 6730 5651 50  0001 L CNN
+F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5700 50  0001 C CNN
+F 3 "~" H 6650 5700 50  0001 C CNN
+	1    6650 5700
+	1    0    0    -1  
+$EndComp
+Text Label 3500 5850 0    50   ~ 0
+VCC
+Text Label 6450 5400 2    50   ~ 0
+VCC
+$Comp
+L Connector_Generic:Conn_01x01 JP4
+U 1 1 616D2F04
+P 6650 5850
+F 0 "JP4" H 6730 5846 50  0000 L CNN
+F 1 "Conn_01x01" H 6730 5801 50  0001 L CNN
+F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5850 50  0001 C CNN
+F 3 "~" H 6650 5850 50  0001 C CNN
+	1    6650 5850
+	1    0    0    -1  
+$EndComp
+Text Label 6450 5700 2    50   ~ 0
+TX
+Text Label 6450 5850 2    50   ~ 0
+RX
+Text Label 2100 5550 2    50   ~ 0
+TX
+Text Label 2100 5650 2    50   ~ 0
+RX
+$Comp
+L Connector_Generic:Conn_01x01 BOARD1
+U 1 1 61711552
+P 7800 5250
+F 0 "BOARD1" H 7880 5246 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 5201 50  0001 L CNN
+F 2 "Kitsune-Footprints:60_percent_plus_tofu_no_center_holes" H 7800 5250 50  0001 C CNN
+F 3 "~" H 7800 5250 50  0001 C CNN
+	1    7800 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 FID1
+U 1 1 61716CBC
+P 7800 5400
+F 0 "FID1" H 7880 5396 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 5351 50  0001 L CNN
+F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5400 50  0001 C CNN
+F 3 "~" H 7800 5400 50  0001 C CNN
+	1    7800 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 FID2
+U 1 1 61716CC2
+P 7800 5550
+F 0 "FID2" H 7880 5546 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 5501 50  0001 L CNN
+F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5550 50  0001 C CNN
+F 3 "~" H 7800 5550 50  0001 C CNN
+	1    7800 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 FID3
+U 1 1 61716CC8
+P 7800 5700
+F 0 "FID3" H 7880 5696 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 5651 50  0001 L CNN
+F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5700 50  0001 C CNN
+F 3 "~" H 7800 5700 50  0001 C CNN
+	1    7800 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 FID4
+U 1 1 61716CCE
+P 7800 5850
+F 0 "FID4" H 7880 5846 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 5801 50  0001 L CNN
+F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5850 50  0001 C CNN
+F 3 "~" H 7800 5850 50  0001 C CNN
+	1    7800 5850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7600 5250 7600 5400
+Connection ~ 7600 5400
+Wire Wire Line
+	7600 5400 7600 5550
+Connection ~ 7600 5550
+Wire Wire Line
+	7600 5550 7600 5700
+Connection ~ 7600 5700
+Wire Wire Line
+	7600 5700 7600 5850
+$Comp
+L Connector_Generic:Conn_01x01 FID5
+U 1 1 6179F8E6
+P 7800 6000
+F 0 "FID5" H 7880 5996 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 5951 50  0001 L CNN
+F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 6000 50  0001 C CNN
+F 3 "~" H 7800 6000 50  0001 C CNN
+	1    7800 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 FID6
+U 1 1 6179F8F0
+P 7800 6150
+F 0 "FID6" H 7880 6146 50  0000 L CNN
+F 1 "Conn_01x01" H 7880 6101 50  0001 L CNN
+F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 6150 50  0001 C CNN
+F 3 "~" H 7800 6150 50  0001 C CNN
+	1    7800 6150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7600 5850 7600 6000
+Connection ~ 7600 6000
+Wire Wire Line
+	7600 6000 7600 6150
+Connection ~ 7600 5850
+$Comp
+L power:GND #PWR0101
+U 1 1 617CA5FF
+P 3750 5650
+F 0 "#PWR0101" H 3750 5400 50  0001 C CNN
+F 1 "GND" H 3755 5477 50  0000 C CNN
+F 2 "" H 3750 5650 50  0001 C CNN
+F 3 "" H 3750 5650 50  0001 C CNN
+	1    3750 5650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3750 5650 3500 5650
+$Comp
+L power:GND #PWR0102
+U 1 1 617EEEA3
+P 1700 5750
+F 0 "#PWR0102" H 1700 5500 50  0001 C CNN
+F 1 "GND" H 1705 5577 50  0000 C CNN
+F 2 "" H 1700 5750 50  0001 C CNN
+F 3 "" H 1700 5750 50  0001 C CNN
+	1    1700 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 618D99C3
+P 5700 5650
+F 0 "#PWR0103" H 5700 5400 50  0001 C CNN
+F 1 "GND" H 5705 5477 50  0000 C CNN
+F 2 "" H 5700 5650 50  0001 C CNN
+F 3 "" H 5700 5650 50  0001 C CNN
+	1    5700 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 618DA0B0
+P 6450 5550
+F 0 "#PWR0104" H 6450 5300 50  0001 C CNN
+F 1 "GND" V 6455 5422 50  0000 R CNN
+F 2 "" H 6450 5550 50  0001 C CNN
+F 3 "" H 6450 5550 50  0001 C CNN
+	1    6450 5550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 618DA64F
+P 7500 5250
+F 0 "#PWR0105" H 7500 5000 50  0001 C CNN
+F 1 "GND" H 7505 5077 50  0000 C CNN
+F 2 "" H 7500 5250 50  0001 C CNN
+F 3 "" H 7500 5250 50  0001 C CNN
+	1    7500 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 5250 7600 5250
+Connection ~ 7600 5250
 $EndSCHEMATC

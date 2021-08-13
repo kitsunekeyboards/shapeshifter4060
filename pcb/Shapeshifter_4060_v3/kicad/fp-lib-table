@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name Kitsune-Footprints)(type KiCad)(uri ${KIPRJMOD}/Kitsune-Footprints.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri /Users/chuck/github/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
+  (lib (name promicro_library)(type KiCad)(uri /Users/chuck/github/ProMicroKiCad/promicro_library)(options "")(descr ""))
+  (lib (name nice-nano-kicad)(type KiCad)(uri /Users/chuck/github/nice-nano-kicad)(options "")(descr ""))
 )
