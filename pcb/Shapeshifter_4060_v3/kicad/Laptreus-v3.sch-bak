@@ -1141,7 +1141,7 @@ U 1 1 6116B6C7
 P 7400 3050
 F 0 "SW36" H 7400 3335 50  0000 C CNN
 F 1 "SHIFT" H 7400 3244 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7400 3250 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 7400 3250 50  0001 C CNN
 F 3 "~" H 7400 3250 50  0001 C CNN
 	1    7400 3050
 	1    0    0    -1  
@@ -1564,11 +1564,11 @@ F 3 "" V 3850 3600 60  0001 C CNN
 	1    2800 6100
 	1    0    0    -1  
 $EndComp
-Text Label 2100 5950 2    50   ~ 0
-COL0
 Text Label 2100 6050 2    50   ~ 0
+COL0
+Text Label 2100 5950 2    50   ~ 0
 COL1
-Text Label 2100 6150 2    50   ~ 0
+Text Label 3500 6350 0    50   ~ 0
 COL2
 Text Label 3500 6450 0    50   ~ 0
 COL3
@@ -1586,7 +1586,7 @@ Text Label 2100 6350 2    50   ~ 0
 COL9
 Text Label 2100 6250 2    50   ~ 0
 COL10
-Text Label 3500 6350 0    50   ~ 0
+Text Label 2100 6150 2    50   ~ 0
 COL11
 Text Label 3500 6250 0    50   ~ 0
 ROW3

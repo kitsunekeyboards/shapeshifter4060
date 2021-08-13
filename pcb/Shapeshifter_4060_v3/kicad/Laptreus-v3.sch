@@ -1141,7 +1141,7 @@ U 1 1 6116B6C7
 P 7400 3050
 F 0 "SW36" H 7400 3335 50  0000 C CNN
 F 1 "SHIFT" H 7400 3244 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7400 3250 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 7400 3250 50  0001 C CNN
 F 3 "~" H 7400 3250 50  0001 C CNN
 	1    7400 3050
 	1    0    0    -1  
@@ -1262,7 +1262,7 @@ U 1 1 6116B613
 P 1500 3050
 F 0 "SW25" H 1500 3335 50  0000 C CNN
 F 1 "SHIFT" H 1500 3244 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 3250 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 1500 3250 50  0001 C CNN
 F 3 "~" H 1500 3250 50  0001 C CNN
 	1    1500 3050
 	1    0    0    -1  
