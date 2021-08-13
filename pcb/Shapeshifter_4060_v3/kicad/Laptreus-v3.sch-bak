@@ -1396,7 +1396,7 @@ U 1 1 6115C0C8
 P 1500 2150
 F 0 "SW13" H 1500 2435 50  0000 C CNN
 F 1 "ESC" H 1500 2344 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 1500 2350 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 2350 50  0001 C CNN
 F 3 "~" H 1500 2350 50  0001 C CNN
 	1    1500 2150
 	1    0    0    -1  
@@ -1788,7 +1788,7 @@ U 1 1 61711552
 P 7800 5250
 F 0 "BOARD1" H 7880 5246 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5201 50  0001 L CNN
-F 2 "" H 7800 5250 50  0001 C CNN
+F 2 "Kitsune-Footprints:60_percent_plus_tofu_no_center_holes" H 7800 5250 50  0001 C CNN
 F 3 "~" H 7800 5250 50  0001 C CNN
 	1    7800 5250
 	1    0    0    -1  

@@ -1396,7 +1396,7 @@ U 1 1 6115C0C8
 P 1500 2150
 F 0 "SW13" H 1500 2435 50  0000 C CNN
 F 1 "ESC" H 1500 2344 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 1500 2350 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 2350 50  0001 C CNN
 F 3 "~" H 1500 2350 50  0001 C CNN
 	1    1500 2150
 	1    0    0    -1  
@@ -1561,7 +1561,7 @@ U 1 1 611E97A2
 P 2800 6100
 F 0 "U1" H 2800 7037 60  0000 C CNN
 F 1 "nice_nano" H 2800 6931 60  0000 C CNN
-F 2 "Kitsune-Footprints:nice_nano" V 3850 3600 60  0001 C CNN
+F 2 "Kitsune-Footprints:nice_nano_no_Bcu_mask" V 3850 3600 60  0001 C CNN
 F 3 "" V 3850 3600 60  0001 C CNN
 	1    2800 6100
 	1    0    0    -1  
