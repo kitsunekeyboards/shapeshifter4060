@@ -1262,7 +1262,7 @@ U 1 1 6116B613
 P 1500 3050
 F 0 "SW25" H 1500 3335 50  0000 C CNN
 F 1 "SHIFT" H 1500 3244 50  0000 C CNN
-F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 3250 50  0001 C CNN
+F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 1500 3250 50  0001 C CNN
 F 3 "~" H 1500 3250 50  0001 C CNN
 	1    1500 3050
 	1    0    0    -1  
@@ -1930,4 +1930,63 @@ Wire Wire Line
 Connection ~ 2800 1800
 Wire Wire Line
 	2800 1800 3300 1800
+$Comp
+L Kitsune-Symbols:SW_Push SW_RESET_2
+U 1 1 611A38B3
+P 5500 6200
+F 0 "SW_RESET_2" H 5500 6485 50  0000 C CNN
+F 1 "RESET" H 5500 6394 50  0000 C CNN
+F 2 "Kitsune-Footprints:Kailh_Socket_With_Diode" H 5500 6400 50  0001 C CNN
+F 3 "" H 5500 6400 50  0001 C CNN
+	1    5500 6200
+	1    0    0    -1  
+$EndComp
+Text Label 5300 6200 2    50   ~ 0
+RESET
+$Comp
+L power:GND #PWR0106
+U 1 1 611A38BE
+P 5700 6200
+F 0 "#PWR0106" H 5700 5950 50  0001 C CNN
+F 1 "GND" H 5705 6027 50  0000 C CNN
+F 2 "" H 5700 6200 50  0001 C CNN
+F 3 "" H 5700 6200 50  0001 C CNN
+	1    5700 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 JP5
+U 1 1 6122D242
+P 6650 6000
+F 0 "JP5" H 6730 5996 50  0000 L CNN
+F 1 "Conn_01x01" H 6730 5951 50  0001 L CNN
+F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 6000 50  0001 C CNN
+F 3 "~" H 6650 6000 50  0001 C CNN
+	1    6650 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 JP6
+U 1 1 6122D24C
+P 6650 6150
+F 0 "JP6" H 6730 6146 50  0000 L CNN
+F 1 "Conn_01x01" H 6730 6101 50  0001 L CNN
+F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 6150 50  0001 C CNN
+F 3 "~" H 6650 6150 50  0001 C CNN
+	1    6650 6150
+	1    0    0    -1  
+$EndComp
+Text Label 6450 6000 2    50   ~ 0
+RESET
+$Comp
+L power:GND #PWR?
+U 1 1 61275E31
+P 6450 6150
+F 0 "#PWR?" H 6450 5900 50  0001 C CNN
+F 1 "GND" V 6455 6022 50  0000 R CNN
+F 2 "" H 6450 6150 50  0001 C CNN
+F 3 "" H 6450 6150 50  0001 C CNN
+	1    6450 6150
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC

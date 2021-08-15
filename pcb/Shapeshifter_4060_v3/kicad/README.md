@@ -23,7 +23,6 @@
 - Stare and pretend that this means something to you
 - Stare particularly hard at F_Cu and B_Cu
 - Perhaps check to see if there are any lines that look like they're intersecting or something
--
 
 #### Rotating the board so you can do wiring nicely
 
