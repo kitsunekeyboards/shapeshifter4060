@@ -37,3 +37,28 @@
 1. Use the zone tool to draw a box around the area
 2. Right click the zone (may have to select the board as well, then shift click it to deselect it) and Zones > Duplicate Zone to Layer
 3. Press B to fill zones
+
+#### Generating the BOM
+
+1. Go into the schema editor
+1. Tools > Edit Symbol Fields
+1. Add the fields "Designation" and "Supplier Number"
+1. Find your parts from the Elecrow parts library: https://www.elecrow.com/component-library.html?page=1&cate=Switch
+1. Add the part number (like B3U-1000p) to the Supplier Number, and if there is one, add the pad shape (like SOD-123) to the Designation. Also add the Datasheet link.
+1. Group by Supplier Number
+1. Apply and then hit OK
+1. Tools > Generate BOM
+1. Choose `bom2grouped_csv` and Generate
+1. `mv Laptreus-v3 ../bom/Laptreus-v3.csv`
+1. `rm Laptreus-v3.xml`
+1. Import `bom/Laptreus-v3.csv` to google drive (not sure why it doesn't have .csv on the end)
+1. Copy all the switch References into VSCode and smash them onto one line, then replace the Reference on the first switch. Do the same for Values.
+1. Now delete all the extra switches and clean up the rows
+1. Now delete all the rows that represent things we don't want them assembling (nice nano for instance)
+1. Copy all the values and past to VSCode, this should make a tsv. Save the file to `bom/Laptreus-v3.tsv`
+
+#### Generate the position file
+
+1. In PCBNew, File > Fabrication Outputs > Generate footprint position files
+1. Set output path to `../pcba/`, ASCII, millimeters, Separate files for front and back
+

@@ -22,7 +22,10 @@ P 1500 1600
 F 0 "D1" H 1500 1865 50  0000 C CNN
 F 1 "DIODE" H 1500 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 1500 1600 50  0001 C CNN
-F 3 "~" H 1500 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 1500 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 1500 1600 50  0001 C CNN "Designation"
+F 5 "" H 1500 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 1500 1600 50  0001 C CNN "Vendor"
 	1    1500 1600
 	-1   0    0    -1  
 $EndComp
@@ -46,7 +49,10 @@ P 2000 1600
 F 0 "D2" H 2000 1865 50  0000 C CNN
 F 1 "DIODE" H 2000 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2000 1600 50  0001 C CNN
-F 3 "~" H 2000 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2000 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 2000 1600 50  0001 C CNN "Designation"
+F 5 "" H 2000 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2000 1600 50  0001 C CNN "Vendor"
 	1    2000 1600
 	-1   0    0    -1  
 $EndComp
@@ -63,7 +69,10 @@ P 2500 1600
 F 0 "D3" H 2500 1865 50  0000 C CNN
 F 1 "DIODE" H 2500 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2500 1600 50  0001 C CNN
-F 3 "~" H 2500 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2500 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 2500 1600 50  0001 C CNN "Designation"
+F 5 "" H 2500 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2500 1600 50  0001 C CNN "Vendor"
 	1    2500 1600
 	-1   0    0    -1  
 $EndComp
@@ -80,7 +89,10 @@ P 3000 1600
 F 0 "D4" H 3000 1865 50  0000 C CNN
 F 1 "DIODE" H 3000 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3000 1600 50  0001 C CNN
-F 3 "~" H 3000 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3000 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 3000 1600 50  0001 C CNN "Designation"
+F 5 "" H 3000 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3000 1600 50  0001 C CNN "Vendor"
 	1    3000 1600
 	-1   0    0    -1  
 $EndComp
@@ -95,7 +107,10 @@ P 3500 1600
 F 0 "D5" H 3500 1865 50  0000 C CNN
 F 1 "DIODE" H 3500 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3500 1600 50  0001 C CNN
-F 3 "~" H 3500 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3500 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 3500 1600 50  0001 C CNN "Designation"
+F 5 "" H 3500 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3500 1600 50  0001 C CNN "Vendor"
 	1    3500 1600
 	-1   0    0    -1  
 $EndComp
@@ -112,7 +127,10 @@ P 4000 1600
 F 0 "D6" H 4000 1865 50  0000 C CNN
 F 1 "DIODE" H 4000 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4000 1600 50  0001 C CNN
-F 3 "~" H 4000 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4000 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 4000 1600 50  0001 C CNN "Designation"
+F 5 "" H 4000 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4000 1600 50  0001 C CNN "Vendor"
 	1    4000 1600
 	-1   0    0    -1  
 $EndComp
@@ -129,7 +147,10 @@ P 4900 1600
 F 0 "D7" H 4900 1865 50  0000 C CNN
 F 1 "DIODE" H 4900 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4900 1600 50  0001 C CNN
-F 3 "~" H 4900 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4900 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 4900 1600 50  0001 C CNN "Designation"
+F 5 "" H 4900 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4900 1600 50  0001 C CNN "Vendor"
 	1    4900 1600
 	-1   0    0    -1  
 $EndComp
@@ -148,7 +169,10 @@ P 5400 1600
 F 0 "D8" H 5400 1865 50  0000 C CNN
 F 1 "DIODE" H 5400 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5400 1600 50  0001 C CNN
-F 3 "~" H 5400 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5400 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 5400 1600 50  0001 C CNN "Designation"
+F 5 "" H 5400 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5400 1600 50  0001 C CNN "Vendor"
 	1    5400 1600
 	-1   0    0    -1  
 $EndComp
@@ -167,7 +191,10 @@ P 5900 1600
 F 0 "D9" H 5900 1865 50  0000 C CNN
 F 1 "DIODE" H 5900 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5900 1600 50  0001 C CNN
-F 3 "~" H 5900 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5900 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 5900 1600 50  0001 C CNN "Designation"
+F 5 "" H 5900 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5900 1600 50  0001 C CNN "Vendor"
 	1    5900 1600
 	-1   0    0    -1  
 $EndComp
@@ -186,7 +213,10 @@ P 6400 1600
 F 0 "D10" H 6400 1865 50  0000 C CNN
 F 1 "DIODE" H 6400 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6400 1600 50  0001 C CNN
-F 3 "~" H 6400 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6400 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 6400 1600 50  0001 C CNN "Designation"
+F 5 "" H 6400 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6400 1600 50  0001 C CNN "Vendor"
 	1    6400 1600
 	-1   0    0    -1  
 $EndComp
@@ -205,7 +235,10 @@ P 6900 1600
 F 0 "D11" H 6900 1865 50  0000 C CNN
 F 1 "DIODE" H 6900 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6900 1600 50  0001 C CNN
-F 3 "~" H 6900 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6900 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 6900 1600 50  0001 C CNN "Designation"
+F 5 "" H 6900 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6900 1600 50  0001 C CNN "Vendor"
 	1    6900 1600
 	-1   0    0    -1  
 $EndComp
@@ -224,7 +257,10 @@ P 7400 1600
 F 0 "D12" H 7400 1865 50  0000 C CNN
 F 1 "DIODE" H 7400 1774 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 7400 1600 50  0001 C CNN
-F 3 "~" H 7400 1600 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 7400 1600 50  0001 C CNN
+F 4 "SOD-123 2L" H 7400 1600 50  0001 C CNN "Designation"
+F 5 "" H 7400 1600 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 7400 1600 50  0001 C CNN "Vendor"
 	1    7400 1600
 	-1   0    0    -1  
 $EndComp
@@ -260,7 +296,10 @@ P 1500 2500
 F 0 "D13" H 1500 2765 50  0000 C CNN
 F 1 "DIODE" H 1500 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 1500 2500 50  0001 C CNN
-F 3 "~" H 1500 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 1500 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 1500 2500 50  0001 C CNN "Designation"
+F 5 "" H 1500 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 1500 2500 50  0001 C CNN "Vendor"
 	1    1500 2500
 	-1   0    0    -1  
 $EndComp
@@ -284,7 +323,10 @@ P 2000 2500
 F 0 "D14" H 2000 2765 50  0000 C CNN
 F 1 "DIODE" H 2000 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2000 2500 50  0001 C CNN
-F 3 "~" H 2000 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2000 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 2000 2500 50  0001 C CNN "Designation"
+F 5 "" H 2000 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2000 2500 50  0001 C CNN "Vendor"
 	1    2000 2500
 	-1   0    0    -1  
 $EndComp
@@ -301,7 +343,10 @@ P 2500 2500
 F 0 "D15" H 2500 2765 50  0000 C CNN
 F 1 "DIODE" H 2500 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2500 2500 50  0001 C CNN
-F 3 "~" H 2500 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2500 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 2500 2500 50  0001 C CNN "Designation"
+F 5 "" H 2500 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2500 2500 50  0001 C CNN "Vendor"
 	1    2500 2500
 	-1   0    0    -1  
 $EndComp
@@ -318,7 +363,10 @@ P 3000 2500
 F 0 "D16" H 3000 2765 50  0000 C CNN
 F 1 "DIODE" H 3000 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3000 2500 50  0001 C CNN
-F 3 "~" H 3000 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3000 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 3000 2500 50  0001 C CNN "Designation"
+F 5 "" H 3000 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3000 2500 50  0001 C CNN "Vendor"
 	1    3000 2500
 	-1   0    0    -1  
 $EndComp
@@ -335,7 +383,10 @@ P 3500 2500
 F 0 "D17" H 3500 2765 50  0000 C CNN
 F 1 "DIODE" H 3500 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3500 2500 50  0001 C CNN
-F 3 "~" H 3500 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3500 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 3500 2500 50  0001 C CNN "Designation"
+F 5 "" H 3500 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3500 2500 50  0001 C CNN "Vendor"
 	1    3500 2500
 	-1   0    0    -1  
 $EndComp
@@ -352,7 +403,10 @@ P 4000 2500
 F 0 "D18" H 4000 2765 50  0000 C CNN
 F 1 "DIODE" H 4000 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4000 2500 50  0001 C CNN
-F 3 "~" H 4000 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4000 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 4000 2500 50  0001 C CNN "Designation"
+F 5 "" H 4000 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4000 2500 50  0001 C CNN "Vendor"
 	1    4000 2500
 	-1   0    0    -1  
 $EndComp
@@ -369,7 +423,10 @@ P 4900 2500
 F 0 "D19" H 4900 2765 50  0000 C CNN
 F 1 "DIODE" H 4900 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4900 2500 50  0001 C CNN
-F 3 "~" H 4900 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4900 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 4900 2500 50  0001 C CNN "Designation"
+F 5 "" H 4900 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4900 2500 50  0001 C CNN "Vendor"
 	1    4900 2500
 	-1   0    0    -1  
 $EndComp
@@ -388,7 +445,10 @@ P 5400 2500
 F 0 "D20" H 5400 2765 50  0000 C CNN
 F 1 "DIODE" H 5400 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5400 2500 50  0001 C CNN
-F 3 "~" H 5400 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5400 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 5400 2500 50  0001 C CNN "Designation"
+F 5 "" H 5400 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5400 2500 50  0001 C CNN "Vendor"
 	1    5400 2500
 	-1   0    0    -1  
 $EndComp
@@ -407,7 +467,10 @@ P 5900 2500
 F 0 "D21" H 5900 2765 50  0000 C CNN
 F 1 "DIODE" H 5900 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5900 2500 50  0001 C CNN
-F 3 "~" H 5900 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5900 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 5900 2500 50  0001 C CNN "Designation"
+F 5 "" H 5900 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5900 2500 50  0001 C CNN "Vendor"
 	1    5900 2500
 	-1   0    0    -1  
 $EndComp
@@ -426,7 +489,10 @@ P 6400 2500
 F 0 "D22" H 6400 2765 50  0000 C CNN
 F 1 "DIODE" H 6400 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6400 2500 50  0001 C CNN
-F 3 "~" H 6400 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6400 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 6400 2500 50  0001 C CNN "Designation"
+F 5 "" H 6400 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6400 2500 50  0001 C CNN "Vendor"
 	1    6400 2500
 	-1   0    0    -1  
 $EndComp
@@ -445,7 +511,10 @@ P 6900 2500
 F 0 "D23" H 6900 2765 50  0000 C CNN
 F 1 "DIODE" H 6900 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6900 2500 50  0001 C CNN
-F 3 "~" H 6900 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6900 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 6900 2500 50  0001 C CNN "Designation"
+F 5 "" H 6900 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6900 2500 50  0001 C CNN "Vendor"
 	1    6900 2500
 	-1   0    0    -1  
 $EndComp
@@ -464,7 +533,10 @@ P 7400 2500
 F 0 "D24" H 7400 2765 50  0000 C CNN
 F 1 "DIODE" H 7400 2674 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 7400 2500 50  0001 C CNN
-F 3 "~" H 7400 2500 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 7400 2500 50  0001 C CNN
+F 4 "SOD-123 2L" H 7400 2500 50  0001 C CNN "Designation"
+F 5 "" H 7400 2500 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 7400 2500 50  0001 C CNN "Vendor"
 	1    7400 2500
 	-1   0    0    -1  
 $EndComp
@@ -500,7 +572,10 @@ P 1500 3400
 F 0 "D25" H 1500 3665 50  0000 C CNN
 F 1 "DIODE" H 1500 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 1500 3400 50  0001 C CNN
-F 3 "~" H 1500 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 1500 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 1500 3400 50  0001 C CNN "Designation"
+F 5 "" H 1500 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 1500 3400 50  0001 C CNN "Vendor"
 	1    1500 3400
 	-1   0    0    -1  
 $EndComp
@@ -524,7 +599,10 @@ P 2000 3400
 F 0 "D26" H 2000 3665 50  0000 C CNN
 F 1 "DIODE" H 2000 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2000 3400 50  0001 C CNN
-F 3 "~" H 2000 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2000 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 2000 3400 50  0001 C CNN "Designation"
+F 5 "" H 2000 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2000 3400 50  0001 C CNN "Vendor"
 	1    2000 3400
 	-1   0    0    -1  
 $EndComp
@@ -541,7 +619,10 @@ P 2500 3400
 F 0 "D27" H 2500 3665 50  0000 C CNN
 F 1 "DIODE" H 2500 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2500 3400 50  0001 C CNN
-F 3 "~" H 2500 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2500 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 2500 3400 50  0001 C CNN "Designation"
+F 5 "" H 2500 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2500 3400 50  0001 C CNN "Vendor"
 	1    2500 3400
 	-1   0    0    -1  
 $EndComp
@@ -558,7 +639,10 @@ P 3000 3400
 F 0 "D28" H 3000 3665 50  0000 C CNN
 F 1 "DIODE" H 3000 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3000 3400 50  0001 C CNN
-F 3 "~" H 3000 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3000 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 3000 3400 50  0001 C CNN "Designation"
+F 5 "" H 3000 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3000 3400 50  0001 C CNN "Vendor"
 	1    3000 3400
 	-1   0    0    -1  
 $EndComp
@@ -575,7 +659,10 @@ P 3500 3400
 F 0 "D29" H 3500 3665 50  0000 C CNN
 F 1 "DIODE" H 3500 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3500 3400 50  0001 C CNN
-F 3 "~" H 3500 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3500 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 3500 3400 50  0001 C CNN "Designation"
+F 5 "" H 3500 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3500 3400 50  0001 C CNN "Vendor"
 	1    3500 3400
 	-1   0    0    -1  
 $EndComp
@@ -590,7 +677,10 @@ P 4000 3400
 F 0 "D30" H 4000 3665 50  0000 C CNN
 F 1 "DIODE" H 4000 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4000 3400 50  0001 C CNN
-F 3 "~" H 4000 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4000 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 4000 3400 50  0001 C CNN "Designation"
+F 5 "" H 4000 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4000 3400 50  0001 C CNN "Vendor"
 	1    4000 3400
 	-1   0    0    -1  
 $EndComp
@@ -607,7 +697,10 @@ P 4900 3400
 F 0 "D31" H 4900 3665 50  0000 C CNN
 F 1 "DIODE" H 4900 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4900 3400 50  0001 C CNN
-F 3 "~" H 4900 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4900 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 4900 3400 50  0001 C CNN "Designation"
+F 5 "" H 4900 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4900 3400 50  0001 C CNN "Vendor"
 	1    4900 3400
 	-1   0    0    -1  
 $EndComp
@@ -626,7 +719,10 @@ P 5400 3400
 F 0 "D32" H 5400 3665 50  0000 C CNN
 F 1 "DIODE" H 5400 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5400 3400 50  0001 C CNN
-F 3 "~" H 5400 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5400 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 5400 3400 50  0001 C CNN "Designation"
+F 5 "" H 5400 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5400 3400 50  0001 C CNN "Vendor"
 	1    5400 3400
 	-1   0    0    -1  
 $EndComp
@@ -645,7 +741,10 @@ P 5900 3400
 F 0 "D33" H 5900 3665 50  0000 C CNN
 F 1 "DIODE" H 5900 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5900 3400 50  0001 C CNN
-F 3 "~" H 5900 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5900 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 5900 3400 50  0001 C CNN "Designation"
+F 5 "" H 5900 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5900 3400 50  0001 C CNN "Vendor"
 	1    5900 3400
 	-1   0    0    -1  
 $EndComp
@@ -664,7 +763,10 @@ P 6400 3400
 F 0 "D34" H 6400 3665 50  0000 C CNN
 F 1 "DIODE" H 6400 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6400 3400 50  0001 C CNN
-F 3 "~" H 6400 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6400 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 6400 3400 50  0001 C CNN "Designation"
+F 5 "" H 6400 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6400 3400 50  0001 C CNN "Vendor"
 	1    6400 3400
 	-1   0    0    -1  
 $EndComp
@@ -683,7 +785,10 @@ P 6900 3400
 F 0 "D35" H 6900 3665 50  0000 C CNN
 F 1 "DIODE" H 6900 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6900 3400 50  0001 C CNN
-F 3 "~" H 6900 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6900 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 6900 3400 50  0001 C CNN "Designation"
+F 5 "" H 6900 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6900 3400 50  0001 C CNN "Vendor"
 	1    6900 3400
 	-1   0    0    -1  
 $EndComp
@@ -702,7 +807,10 @@ P 7400 3400
 F 0 "D36" H 7400 3665 50  0000 C CNN
 F 1 "DIODE" H 7400 3574 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 7400 3400 50  0001 C CNN
-F 3 "~" H 7400 3400 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 7400 3400 50  0001 C CNN
+F 4 "SOD-123 2L" H 7400 3400 50  0001 C CNN "Designation"
+F 5 "" H 7400 3400 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 7400 3400 50  0001 C CNN "Vendor"
 	1    7400 3400
 	-1   0    0    -1  
 $EndComp
@@ -738,7 +846,10 @@ P 1500 4300
 F 0 "D37" H 1500 4565 50  0000 C CNN
 F 1 "DIODE" H 1500 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 1500 4300 50  0001 C CNN
-F 3 "~" H 1500 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 1500 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 1500 4300 50  0001 C CNN "Designation"
+F 5 "" H 1500 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 1500 4300 50  0001 C CNN "Vendor"
 	1    1500 4300
 	-1   0    0    -1  
 $EndComp
@@ -760,7 +871,10 @@ P 2000 4300
 F 0 "D38" H 2000 4565 50  0000 C CNN
 F 1 "DIODE" H 2000 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2000 4300 50  0001 C CNN
-F 3 "~" H 2000 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2000 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 2000 4300 50  0001 C CNN "Designation"
+F 5 "" H 2000 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2000 4300 50  0001 C CNN "Vendor"
 	1    2000 4300
 	-1   0    0    -1  
 $EndComp
@@ -777,7 +891,10 @@ P 2500 4300
 F 0 "D39" H 2500 4565 50  0000 C CNN
 F 1 "DIODE" H 2500 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 2500 4300 50  0001 C CNN
-F 3 "~" H 2500 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 2500 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 2500 4300 50  0001 C CNN "Designation"
+F 5 "" H 2500 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 2500 4300 50  0001 C CNN "Vendor"
 	1    2500 4300
 	-1   0    0    -1  
 $EndComp
@@ -794,7 +911,10 @@ P 3000 4300
 F 0 "D40" H 3000 4565 50  0000 C CNN
 F 1 "DIODE" H 3000 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3000 4300 50  0001 C CNN
-F 3 "~" H 3000 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3000 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 3000 4300 50  0001 C CNN "Designation"
+F 5 "" H 3000 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3000 4300 50  0001 C CNN "Vendor"
 	1    3000 4300
 	-1   0    0    -1  
 $EndComp
@@ -811,7 +931,10 @@ P 3500 4300
 F 0 "D41" H 3500 4565 50  0000 C CNN
 F 1 "DIODE" H 3500 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 3500 4300 50  0001 C CNN
-F 3 "~" H 3500 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 3500 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 3500 4300 50  0001 C CNN "Designation"
+F 5 "" H 3500 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 3500 4300 50  0001 C CNN "Vendor"
 	1    3500 4300
 	-1   0    0    -1  
 $EndComp
@@ -828,7 +951,10 @@ P 4000 4300
 F 0 "D42" H 4000 4565 50  0000 C CNN
 F 1 "DIODE" H 4000 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4000 4300 50  0001 C CNN
-F 3 "~" H 4000 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4000 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 4000 4300 50  0001 C CNN "Designation"
+F 5 "" H 4000 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4000 4300 50  0001 C CNN "Vendor"
 	1    4000 4300
 	-1   0    0    -1  
 $EndComp
@@ -845,7 +971,10 @@ P 4900 4300
 F 0 "D43" H 4900 4565 50  0000 C CNN
 F 1 "DIODE" H 4900 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 4900 4300 50  0001 C CNN
-F 3 "~" H 4900 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 4900 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 4900 4300 50  0001 C CNN "Designation"
+F 5 "" H 4900 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 4900 4300 50  0001 C CNN "Vendor"
 	1    4900 4300
 	-1   0    0    -1  
 $EndComp
@@ -864,7 +993,10 @@ P 5400 4300
 F 0 "D44" H 5400 4565 50  0000 C CNN
 F 1 "DIODE" H 5400 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5400 4300 50  0001 C CNN
-F 3 "~" H 5400 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5400 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 5400 4300 50  0001 C CNN "Designation"
+F 5 "" H 5400 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5400 4300 50  0001 C CNN "Vendor"
 	1    5400 4300
 	-1   0    0    -1  
 $EndComp
@@ -883,7 +1015,10 @@ P 5900 4300
 F 0 "D45" H 5900 4565 50  0000 C CNN
 F 1 "DIODE" H 5900 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 5900 4300 50  0001 C CNN
-F 3 "~" H 5900 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 5900 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 5900 4300 50  0001 C CNN "Designation"
+F 5 "" H 5900 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 5900 4300 50  0001 C CNN "Vendor"
 	1    5900 4300
 	-1   0    0    -1  
 $EndComp
@@ -902,7 +1037,10 @@ P 6400 4300
 F 0 "D46" H 6400 4565 50  0000 C CNN
 F 1 "DIODE" H 6400 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6400 4300 50  0001 C CNN
-F 3 "~" H 6400 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6400 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 6400 4300 50  0001 C CNN "Designation"
+F 5 "" H 6400 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6400 4300 50  0001 C CNN "Vendor"
 	1    6400 4300
 	-1   0    0    -1  
 $EndComp
@@ -921,7 +1059,10 @@ P 6900 4300
 F 0 "D47" H 6900 4565 50  0000 C CNN
 F 1 "DIODE" H 6900 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 6900 4300 50  0001 C CNN
-F 3 "~" H 6900 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 6900 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 6900 4300 50  0001 C CNN "Designation"
+F 5 "" H 6900 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 6900 4300 50  0001 C CNN "Vendor"
 	1    6900 4300
 	-1   0    0    -1  
 $EndComp
@@ -940,7 +1081,10 @@ P 7400 4300
 F 0 "D48" H 7400 4565 50  0000 C CNN
 F 1 "DIODE" H 7400 4474 50  0000 C CNN
 F 2 "Kitsune-Footprints:Diode-dual" H 7400 4300 50  0001 C CNN
-F 3 "~" H 7400 4300 50  0001 C CNN
+F 3 "https://rocelec.widen.net/view/pdf/88a3ef7ody/FAIR-S-A0002364126-1.pdf?t.download=true&u=5oefqw" H 7400 4300 50  0001 C CNN
+F 4 "SOD-123 2L" H 7400 4300 50  0001 C CNN "Designation"
+F 5 "" H 7400 4300 50  0001 C CNN "Supplier number"
+F 6 "MMSD4148" H 7400 4300 50  0001 C CNN "Vendor"
 	1    7400 4300
 	-1   0    0    -1  
 $EndComp
@@ -1010,7 +1154,9 @@ P 7400 3950
 F 0 "SW48" H 7400 4235 50  0000 C CNN
 F 1 "RIGHT" H 7400 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7400 4150 50  0001 C CNN
-F 3 "~" H 7400 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 7400 4150 50  0001 C CNN
+F 4 "" H 7400 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 7400 3950 50  0001 C CNN "Vendor"
 	1    7400 3950
 	1    0    0    -1  
 $EndComp
@@ -1021,7 +1167,9 @@ P 6900 3950
 F 0 "SW47" H 6900 4235 50  0000 C CNN
 F 1 "UP" H 6900 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6900 4150 50  0001 C CNN
-F 3 "~" H 6900 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6900 4150 50  0001 C CNN
+F 4 "" H 6900 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6900 3950 50  0001 C CNN "Vendor"
 	1    6900 3950
 	1    0    0    -1  
 $EndComp
@@ -1032,7 +1180,9 @@ P 6400 3950
 F 0 "SW46" H 6400 4235 50  0000 C CNN
 F 1 "DOWN" H 6400 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6400 4150 50  0001 C CNN
-F 3 "~" H 6400 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6400 4150 50  0001 C CNN
+F 4 "" H 6400 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6400 3950 50  0001 C CNN "Vendor"
 	1    6400 3950
 	1    0    0    -1  
 $EndComp
@@ -1043,7 +1193,9 @@ P 5900 3950
 F 0 "SW45" H 5900 4235 50  0000 C CNN
 F 1 "LEFT" H 5900 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5900 4150 50  0001 C CNN
-F 3 "~" H 5900 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5900 4150 50  0001 C CNN
+F 4 "" H 5900 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5900 3950 50  0001 C CNN "Vendor"
 	1    5900 3950
 	1    0    0    -1  
 $EndComp
@@ -1054,7 +1206,9 @@ P 5400 3950
 F 0 "SW44" H 5400 4235 50  0000 C CNN
 F 1 "SPACE" H 5400 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5400 4150 50  0001 C CNN
-F 3 "~" H 5400 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5400 4150 50  0001 C CNN
+F 4 "" H 5400 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5400 3950 50  0001 C CNN "Vendor"
 	1    5400 3950
 	1    0    0    -1  
 $EndComp
@@ -1065,7 +1219,9 @@ P 4900 3950
 F 0 "SW43" H 4900 4235 50  0000 C CNN
 F 1 "ENTER" H 4900 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4900 4150 50  0001 C CNN
-F 3 "~" H 4900 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4900 4150 50  0001 C CNN
+F 4 "" H 4900 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4900 3950 50  0001 C CNN "Vendor"
 	1    4900 3950
 	1    0    0    -1  
 $EndComp
@@ -1076,7 +1232,9 @@ P 4000 3950
 F 0 "SW42" H 4000 4235 50  0000 C CNN
 F 1 "BKSP" H 4000 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4000 4150 50  0001 C CNN
-F 3 "~" H 4000 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4000 4150 50  0001 C CNN
+F 4 "" H 4000 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4000 3950 50  0001 C CNN "Vendor"
 	1    4000 3950
 	1    0    0    -1  
 $EndComp
@@ -1087,7 +1245,9 @@ P 3500 3950
 F 0 "SW41" H 3500 4235 50  0000 C CNN
 F 1 "SHIFT" H 3500 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3500 4150 50  0001 C CNN
-F 3 "~" H 3500 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3500 4150 50  0001 C CNN
+F 4 "" H 3500 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3500 3950 50  0001 C CNN "Vendor"
 	1    3500 3950
 	1    0    0    -1  
 $EndComp
@@ -1098,7 +1258,9 @@ P 3000 3950
 F 0 "SW40" H 3000 4235 50  0000 C CNN
 F 1 "FN1" H 3000 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3000 4150 50  0001 C CNN
-F 3 "~" H 3000 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3000 4150 50  0001 C CNN
+F 4 "" H 3000 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3000 3950 50  0001 C CNN "Vendor"
 	1    3000 3950
 	1    0    0    -1  
 $EndComp
@@ -1109,7 +1271,9 @@ P 2500 3950
 F 0 "SW39" H 2500 4235 50  0000 C CNN
 F 1 "CMD" H 2500 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2500 4150 50  0001 C CNN
-F 3 "~" H 2500 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2500 4150 50  0001 C CNN
+F 4 "" H 2500 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2500 3950 50  0001 C CNN "Vendor"
 	1    2500 3950
 	1    0    0    -1  
 $EndComp
@@ -1120,7 +1284,9 @@ P 2000 3950
 F 0 "SW38" H 2000 4235 50  0000 C CNN
 F 1 "ALT/GRV" H 2000 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2000 4150 50  0001 C CNN
-F 3 "~" H 2000 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2000 4150 50  0001 C CNN
+F 4 "" H 2000 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2000 3950 50  0001 C CNN "Vendor"
 	1    2000 3950
 	1    0    0    -1  
 $EndComp
@@ -1131,7 +1297,9 @@ P 1500 3950
 F 0 "SW37" H 1500 4235 50  0000 C CNN
 F 1 "CTRL/ESC" H 1500 4144 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 4150 50  0001 C CNN
-F 3 "~" H 1500 4150 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 1500 4150 50  0001 C CNN
+F 4 "" H 1500 3950 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 1500 3950 50  0001 C CNN "Vendor"
 	1    1500 3950
 	1    0    0    -1  
 $EndComp
@@ -1142,7 +1310,9 @@ P 7400 3050
 F 0 "SW36" H 7400 3335 50  0000 C CNN
 F 1 "SHIFT" H 7400 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 7400 3250 50  0001 C CNN
-F 3 "~" H 7400 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 7400 3250 50  0001 C CNN
+F 4 "" H 7400 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 7400 3050 50  0001 C CNN "Vendor"
 	1    7400 3050
 	1    0    0    -1  
 $EndComp
@@ -1153,7 +1323,9 @@ P 6900 3050
 F 0 "SW35" H 6900 3335 50  0000 C CNN
 F 1 "/" H 6900 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6900 3250 50  0001 C CNN
-F 3 "~" H 6900 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6900 3250 50  0001 C CNN
+F 4 "" H 6900 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6900 3050 50  0001 C CNN "Vendor"
 	1    6900 3050
 	1    0    0    -1  
 $EndComp
@@ -1164,7 +1336,9 @@ P 6400 3050
 F 0 "SW34" H 6400 3335 50  0000 C CNN
 F 1 "." H 6400 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6400 3250 50  0001 C CNN
-F 3 "~" H 6400 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6400 3250 50  0001 C CNN
+F 4 "" H 6400 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6400 3050 50  0001 C CNN "Vendor"
 	1    6400 3050
 	1    0    0    -1  
 $EndComp
@@ -1175,7 +1349,9 @@ P 5900 3050
 F 0 "SW33" H 5900 3335 50  0000 C CNN
 F 1 "," H 5900 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5900 3250 50  0001 C CNN
-F 3 "~" H 5900 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5900 3250 50  0001 C CNN
+F 4 "" H 5900 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5900 3050 50  0001 C CNN "Vendor"
 	1    5900 3050
 	1    0    0    -1  
 $EndComp
@@ -1186,7 +1362,9 @@ P 5400 3050
 F 0 "SW32" H 5400 3335 50  0000 C CNN
 F 1 "M" H 5400 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5400 3250 50  0001 C CNN
-F 3 "~" H 5400 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5400 3250 50  0001 C CNN
+F 4 "" H 5400 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5400 3050 50  0001 C CNN "Vendor"
 	1    5400 3050
 	1    0    0    -1  
 $EndComp
@@ -1197,7 +1375,9 @@ P 4900 3050
 F 0 "SW31" H 4900 3335 50  0000 C CNN
 F 1 "N" H 4900 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4900 3250 50  0001 C CNN
-F 3 "~" H 4900 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4900 3250 50  0001 C CNN
+F 4 "" H 4900 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4900 3050 50  0001 C CNN "Vendor"
 	1    4900 3050
 	1    0    0    -1  
 $EndComp
@@ -1208,7 +1388,9 @@ P 4000 3050
 F 0 "SW30" H 4000 3335 50  0000 C CNN
 F 1 "B" H 4000 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4000 3250 50  0001 C CNN
-F 3 "~" H 4000 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4000 3250 50  0001 C CNN
+F 4 "" H 4000 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4000 3050 50  0001 C CNN "Vendor"
 	1    4000 3050
 	1    0    0    -1  
 $EndComp
@@ -1219,7 +1401,9 @@ P 3500 3050
 F 0 "SW29" H 3500 3335 50  0000 C CNN
 F 1 "V" H 3500 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3500 3250 50  0001 C CNN
-F 3 "~" H 3500 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3500 3250 50  0001 C CNN
+F 4 "" H 3500 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3500 3050 50  0001 C CNN "Vendor"
 	1    3500 3050
 	1    0    0    -1  
 $EndComp
@@ -1230,7 +1414,9 @@ P 3000 3050
 F 0 "SW28" H 3000 3335 50  0000 C CNN
 F 1 "C" H 3000 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3000 3250 50  0001 C CNN
-F 3 "~" H 3000 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3000 3250 50  0001 C CNN
+F 4 "" H 3000 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3000 3050 50  0001 C CNN "Vendor"
 	1    3000 3050
 	1    0    0    -1  
 $EndComp
@@ -1241,7 +1427,9 @@ P 2500 3050
 F 0 "SW27" H 2500 3335 50  0000 C CNN
 F 1 "X" H 2500 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2500 3250 50  0001 C CNN
-F 3 "~" H 2500 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2500 3250 50  0001 C CNN
+F 4 "" H 2500 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2500 3050 50  0001 C CNN "Vendor"
 	1    2500 3050
 	1    0    0    -1  
 $EndComp
@@ -1252,7 +1440,9 @@ P 2000 3050
 F 0 "SW26" H 2000 3335 50  0000 C CNN
 F 1 "Z" H 2000 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2000 3250 50  0001 C CNN
-F 3 "~" H 2000 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2000 3250 50  0001 C CNN
+F 4 "" H 2000 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2000 3050 50  0001 C CNN "Vendor"
 	1    2000 3050
 	1    0    0    -1  
 $EndComp
@@ -1263,7 +1453,9 @@ P 1500 3050
 F 0 "SW25" H 1500 3335 50  0000 C CNN
 F 1 "SHIFT" H 1500 3244 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 1500 3250 50  0001 C CNN
-F 3 "~" H 1500 3250 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 1500 3250 50  0001 C CNN
+F 4 "" H 1500 3050 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 1500 3050 50  0001 C CNN "Vendor"
 	1    1500 3050
 	1    0    0    -1  
 $EndComp
@@ -1274,7 +1466,9 @@ P 7400 2150
 F 0 "SW24" H 7400 2435 50  0000 C CNN
 F 1 "ENTER" H 7400 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 7400 2350 50  0001 C CNN
-F 3 "~" H 7400 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 7400 2350 50  0001 C CNN
+F 4 "" H 7400 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 7400 2150 50  0001 C CNN "Vendor"
 	1    7400 2150
 	1    0    0    -1  
 $EndComp
@@ -1285,7 +1479,9 @@ P 6900 2150
 F 0 "SW23" H 6900 2435 50  0000 C CNN
 F 1 ";" H 6900 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 6900 2350 50  0001 C CNN
-F 3 "~" H 6900 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6900 2350 50  0001 C CNN
+F 4 "" H 6900 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6900 2150 50  0001 C CNN "Vendor"
 	1    6900 2150
 	1    0    0    -1  
 $EndComp
@@ -1296,7 +1492,9 @@ P 6400 2150
 F 0 "SW22" H 6400 2435 50  0000 C CNN
 F 1 "L" H 6400 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6400 2350 50  0001 C CNN
-F 3 "~" H 6400 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6400 2350 50  0001 C CNN
+F 4 "" H 6400 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6400 2150 50  0001 C CNN "Vendor"
 	1    6400 2150
 	1    0    0    -1  
 $EndComp
@@ -1307,7 +1505,9 @@ P 5900 2150
 F 0 "SW21" H 5900 2435 50  0000 C CNN
 F 1 "K" H 5900 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5900 2350 50  0001 C CNN
-F 3 "~" H 5900 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5900 2350 50  0001 C CNN
+F 4 "" H 5900 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5900 2150 50  0001 C CNN "Vendor"
 	1    5900 2150
 	1    0    0    -1  
 $EndComp
@@ -1318,7 +1518,9 @@ P 5400 2150
 F 0 "SW20" H 5400 2435 50  0000 C CNN
 F 1 "J" H 5400 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5400 2350 50  0001 C CNN
-F 3 "~" H 5400 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5400 2350 50  0001 C CNN
+F 4 "" H 5400 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5400 2150 50  0001 C CNN "Vendor"
 	1    5400 2150
 	1    0    0    -1  
 $EndComp
@@ -1329,7 +1531,9 @@ P 4900 2150
 F 0 "SW19" H 4900 2435 50  0000 C CNN
 F 1 "H" H 4900 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4900 2350 50  0001 C CNN
-F 3 "~" H 4900 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4900 2350 50  0001 C CNN
+F 4 "" H 4900 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4900 2150 50  0001 C CNN "Vendor"
 	1    4900 2150
 	1    0    0    -1  
 $EndComp
@@ -1340,7 +1544,9 @@ P 4000 2150
 F 0 "SW18" H 4000 2435 50  0000 C CNN
 F 1 "G" H 4000 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4000 2350 50  0001 C CNN
-F 3 "~" H 4000 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4000 2350 50  0001 C CNN
+F 4 "" H 4000 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4000 2150 50  0001 C CNN "Vendor"
 	1    4000 2150
 	1    0    0    -1  
 $EndComp
@@ -1351,7 +1557,9 @@ P 3500 2150
 F 0 "SW17" H 3500 2435 50  0000 C CNN
 F 1 "F" H 3500 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3500 2350 50  0001 C CNN
-F 3 "~" H 3500 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3500 2350 50  0001 C CNN
+F 4 "" H 3500 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3500 2150 50  0001 C CNN "Vendor"
 	1    3500 2150
 	1    0    0    -1  
 $EndComp
@@ -1362,7 +1570,9 @@ P 3000 2150
 F 0 "SW16" H 3000 2435 50  0000 C CNN
 F 1 "D" H 3000 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3000 2350 50  0001 C CNN
-F 3 "~" H 3000 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3000 2350 50  0001 C CNN
+F 4 "" H 3000 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3000 2150 50  0001 C CNN "Vendor"
 	1    3000 2150
 	1    0    0    -1  
 $EndComp
@@ -1373,7 +1583,9 @@ P 2500 2150
 F 0 "SW15" H 2500 2435 50  0000 C CNN
 F 1 "S" H 2500 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2500 2350 50  0001 C CNN
-F 3 "~" H 2500 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2500 2350 50  0001 C CNN
+F 4 "" H 2500 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2500 2150 50  0001 C CNN "Vendor"
 	1    2500 2150
 	1    0    0    -1  
 $EndComp
@@ -1384,7 +1596,9 @@ P 2000 2150
 F 0 "SW14" H 2000 2435 50  0000 C CNN
 F 1 "A" H 2000 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 2000 2350 50  0001 C CNN
-F 3 "~" H 2000 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2000 2350 50  0001 C CNN
+F 4 "" H 2000 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2000 2150 50  0001 C CNN "Vendor"
 	1    2000 2150
 	1    0    0    -1  
 $EndComp
@@ -1395,7 +1609,9 @@ P 1500 2150
 F 0 "SW13" H 1500 2435 50  0000 C CNN
 F 1 "ESC" H 1500 2344 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 2350 50  0001 C CNN
-F 3 "~" H 1500 2350 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 1500 2350 50  0001 C CNN
+F 4 "" H 1500 2150 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 1500 2150 50  0001 C CNN "Vendor"
 	1    1500 2150
 	1    0    0    -1  
 $EndComp
@@ -1406,7 +1622,9 @@ P 7400 1250
 F 0 "SW12" H 7400 1535 50  0000 C CNN
 F 1 "BKSP" H 7400 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 7400 1450 50  0001 C CNN
-F 3 "~" H 7400 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 7400 1450 50  0001 C CNN
+F 4 "" H 7400 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 7400 1250 50  0001 C CNN "Vendor"
 	1    7400 1250
 	1    0    0    -1  
 $EndComp
@@ -1417,7 +1635,9 @@ P 6900 1250
 F 0 "SW11" H 6900 1535 50  0000 C CNN
 F 1 "P" H 6900 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6900 1450 50  0001 C CNN
-F 3 "~" H 6900 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6900 1450 50  0001 C CNN
+F 4 "" H 6900 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6900 1250 50  0001 C CNN "Vendor"
 	1    6900 1250
 	1    0    0    -1  
 $EndComp
@@ -1428,7 +1648,9 @@ P 6400 1250
 F 0 "SW10" H 6400 1535 50  0000 C CNN
 F 1 "O" H 6400 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 6400 1450 50  0001 C CNN
-F 3 "~" H 6400 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 6400 1450 50  0001 C CNN
+F 4 "" H 6400 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 6400 1250 50  0001 C CNN "Vendor"
 	1    6400 1250
 	1    0    0    -1  
 $EndComp
@@ -1439,7 +1661,9 @@ P 5900 1250
 F 0 "SW9" H 5900 1535 50  0000 C CNN
 F 1 "I" H 5900 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5900 1450 50  0001 C CNN
-F 3 "~" H 5900 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5900 1450 50  0001 C CNN
+F 4 "" H 5900 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5900 1250 50  0001 C CNN "Vendor"
 	1    5900 1250
 	1    0    0    -1  
 $EndComp
@@ -1450,7 +1674,9 @@ P 5400 1250
 F 0 "SW8" H 5400 1535 50  0000 C CNN
 F 1 "U" H 5400 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 5400 1450 50  0001 C CNN
-F 3 "~" H 5400 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 5400 1450 50  0001 C CNN
+F 4 "" H 5400 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 5400 1250 50  0001 C CNN "Vendor"
 	1    5400 1250
 	1    0    0    -1  
 $EndComp
@@ -1461,7 +1687,9 @@ P 4900 1250
 F 0 "SW7" H 4900 1535 50  0000 C CNN
 F 1 "Y" H 4900 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4900 1450 50  0001 C CNN
-F 3 "~" H 4900 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4900 1450 50  0001 C CNN
+F 4 "" H 4900 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4900 1250 50  0001 C CNN "Vendor"
 	1    4900 1250
 	1    0    0    -1  
 $EndComp
@@ -1472,7 +1700,9 @@ P 4000 1250
 F 0 "SW6" H 4000 1535 50  0000 C CNN
 F 1 "T" H 4000 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 4000 1450 50  0001 C CNN
-F 3 "~" H 4000 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 4000 1450 50  0001 C CNN
+F 4 "" H 4000 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 4000 1250 50  0001 C CNN "Vendor"
 	1    4000 1250
 	1    0    0    -1  
 $EndComp
@@ -1483,7 +1713,9 @@ P 3500 1250
 F 0 "SW5" H 3500 1535 50  0000 C CNN
 F 1 "R" H 3500 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3500 1450 50  0001 C CNN
-F 3 "~" H 3500 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3500 1450 50  0001 C CNN
+F 4 "" H 3500 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3500 1250 50  0001 C CNN "Vendor"
 	1    3500 1250
 	1    0    0    -1  
 $EndComp
@@ -1494,7 +1726,9 @@ P 3000 1250
 F 0 "SW4" H 3000 1535 50  0000 C CNN
 F 1 "E" H 3000 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 3000 1450 50  0001 C CNN
-F 3 "~" H 3000 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 3000 1450 50  0001 C CNN
+F 4 "" H 3000 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 3000 1250 50  0001 C CNN "Vendor"
 	1    3000 1250
 	1    0    0    -1  
 $EndComp
@@ -1505,7 +1739,9 @@ P 2500 1250
 F 0 "SW3" H 2500 1535 50  0000 C CNN
 F 1 "W" H 2500 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2500 1450 50  0001 C CNN
-F 3 "~" H 2500 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2500 1450 50  0001 C CNN
+F 4 "" H 2500 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2500 1250 50  0001 C CNN "Vendor"
 	1    2500 1250
 	1    0    0    -1  
 $EndComp
@@ -1516,7 +1752,9 @@ P 2000 1250
 F 0 "SW2" H 2000 1535 50  0000 C CNN
 F 1 "Q" H 2000 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 2000 1450 50  0001 C CNN
-F 3 "~" H 2000 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 2000 1450 50  0001 C CNN
+F 4 "" H 2000 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 2000 1250 50  0001 C CNN "Vendor"
 	1    2000 1250
 	1    0    0    -1  
 $EndComp
@@ -1527,7 +1765,9 @@ P 1500 1250
 F 0 "SW1" H 1500 1535 50  0000 C CNN
 F 1 "TAB" H 1500 1444 50  0000 C CNN
 F 2 "Kitsune-Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 1500 1450 50  0001 C CNN
-F 3 "~" H 1500 1450 50  0001 C CNN
+F 3 "https://www.kailhswitch.com/uploads/201815927/PG151101S11.pdf?rnd=393" H 1500 1450 50  0001 C CNN
+F 4 "" H 1500 1250 50  0001 C CNN "Supplier number"
+F 5 "CPG151101S11" H 1500 1250 50  0001 C CNN "Vendor"
 	1    1500 1250
 	1    0    0    -1  
 $EndComp
@@ -1561,6 +1801,8 @@ F 0 "U1" H 2800 7037 60  0000 C CNN
 F 1 "nice_nano" H 2800 6931 60  0000 C CNN
 F 2 "Kitsune-Footprints:nice_nano_no_Bcu_mask" V 3850 3600 60  0001 C CNN
 F 3 "" V 3850 3600 60  0001 C CNN
+F 4 "" H 2800 6100 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 2800 6100 50  0001 C CNN "Vendor"
 	1    2800 6100
 	1    0    0    -1  
 $EndComp
@@ -1605,7 +1847,9 @@ P 5500 5650
 F 0 "SW_RESET_1" H 5500 5935 50  0000 C CNN
 F 1 "RESET" H 5500 5844 50  0000 C CNN
 F 2 "Kitsune-Footprints:SW_SPST_B3U-1000P" H 5500 5850 50  0001 C CNN
-F 3 "" H 5500 5850 50  0001 C CNN
+F 3 "https://statics3.seeedstudio.com/images/opl/datasheet/311020047.pdf" H 5500 5850 50  0001 C CNN
+F 4 "" H 5500 5650 50  0001 C CNN "Supplier number"
+F 5 "B3U-1000P-2P-SMD" H 5500 5650 50  0001 C CNN "Vendor"
 	1    5500 5650
 	1    0    0    -1  
 $EndComp
@@ -1719,6 +1963,8 @@ F 0 "JP3" H 6730 5442 50  0000 L CNN
 F 1 "Conn_01x01" H 6730 5351 50  0000 L CNN
 F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5400 50  0001 C CNN
 F 3 "~" H 6650 5400 50  0001 C CNN
+F 4 "" H 6650 5400 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 6650 5400 50  0001 C CNN "Vendor"
 	1    6650 5400
 	1    0    0    -1  
 $EndComp
@@ -1730,6 +1976,8 @@ F 0 "JP2" H 6730 5546 50  0000 L CNN
 F 1 "Conn_01x01" H 6730 5501 50  0001 L CNN
 F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5550 50  0001 C CNN
 F 3 "~" H 6650 5550 50  0001 C CNN
+F 4 "" H 6650 5550 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 6650 5550 50  0001 C CNN "Vendor"
 	1    6650 5550
 	1    0    0    -1  
 $EndComp
@@ -1741,6 +1989,8 @@ F 0 "JP1" H 6730 5696 50  0000 L CNN
 F 1 "Conn_01x01" H 6730 5651 50  0001 L CNN
 F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5700 50  0001 C CNN
 F 3 "~" H 6650 5700 50  0001 C CNN
+F 4 "" H 6650 5700 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 6650 5700 50  0001 C CNN "Vendor"
 	1    6650 5700
 	1    0    0    -1  
 $EndComp
@@ -1756,6 +2006,8 @@ F 0 "JP4" H 6730 5846 50  0000 L CNN
 F 1 "Conn_01x01" H 6730 5801 50  0001 L CNN
 F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 5850 50  0001 C CNN
 F 3 "~" H 6650 5850 50  0001 C CNN
+F 4 "" H 6650 5850 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 6650 5850 50  0001 C CNN "Vendor"
 	1    6650 5850
 	1    0    0    -1  
 $EndComp
@@ -1775,6 +2027,8 @@ F 0 "BOARD1" H 7880 5246 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5201 50  0001 L CNN
 F 2 "Kitsune-Footprints:60_percent_plus_tofu_no_center_holes" H 7800 5250 50  0001 C CNN
 F 3 "~" H 7800 5250 50  0001 C CNN
+F 4 "" H 7800 5250 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 5250 50  0001 C CNN "Vendor"
 	1    7800 5250
 	1    0    0    -1  
 $EndComp
@@ -1786,6 +2040,8 @@ F 0 "FID1" H 7880 5396 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5351 50  0001 L CNN
 F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5400 50  0001 C CNN
 F 3 "~" H 7800 5400 50  0001 C CNN
+F 4 "" H 7800 5400 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 5400 50  0001 C CNN "Vendor"
 	1    7800 5400
 	1    0    0    -1  
 $EndComp
@@ -1797,6 +2053,8 @@ F 0 "FID2" H 7880 5546 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5501 50  0001 L CNN
 F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5550 50  0001 C CNN
 F 3 "~" H 7800 5550 50  0001 C CNN
+F 4 "" H 7800 5550 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 5550 50  0001 C CNN "Vendor"
 	1    7800 5550
 	1    0    0    -1  
 $EndComp
@@ -1808,6 +2066,8 @@ F 0 "FID3" H 7880 5696 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5651 50  0001 L CNN
 F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5700 50  0001 C CNN
 F 3 "~" H 7800 5700 50  0001 C CNN
+F 4 "" H 7800 5700 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 5700 50  0001 C CNN "Vendor"
 	1    7800 5700
 	1    0    0    -1  
 $EndComp
@@ -1819,6 +2079,8 @@ F 0 "FID4" H 7880 5846 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5801 50  0001 L CNN
 F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 5850 50  0001 C CNN
 F 3 "~" H 7800 5850 50  0001 C CNN
+F 4 "" H 7800 5850 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 5850 50  0001 C CNN "Vendor"
 	1    7800 5850
 	1    0    0    -1  
 $EndComp
@@ -1841,6 +2103,8 @@ F 0 "FID5" H 7880 5996 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 5951 50  0001 L CNN
 F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 6000 50  0001 C CNN
 F 3 "~" H 7800 6000 50  0001 C CNN
+F 4 "" H 7800 6000 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 6000 50  0001 C CNN "Vendor"
 	1    7800 6000
 	1    0    0    -1  
 $EndComp
@@ -1852,6 +2116,8 @@ F 0 "FID6" H 7880 6146 50  0000 L CNN
 F 1 "Conn_01x01" H 7880 6101 50  0001 L CNN
 F 2 "Kitsune-Footprints:FIDUCIAL" H 7800 6150 50  0001 C CNN
 F 3 "~" H 7800 6150 50  0001 C CNN
+F 4 "" H 7800 6150 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 7800 6150 50  0001 C CNN "Vendor"
 	1    7800 6150
 	1    0    0    -1  
 $EndComp
@@ -1931,30 +2197,6 @@ Connection ~ 2800 1800
 Wire Wire Line
 	2800 1800 3300 1800
 $Comp
-L Kitsune-Symbols:SW_Push SW_RESET_2
-U 1 1 611A38B3
-P 5500 6200
-F 0 "SW_RESET_2" H 5500 6485 50  0000 C CNN
-F 1 "RESET" H 5500 6394 50  0000 C CNN
-F 2 "Kitsune-Footprints:Kailh_Socket_With_Diode" H 5500 6400 50  0001 C CNN
-F 3 "" H 5500 6400 50  0001 C CNN
-	1    5500 6200
-	1    0    0    -1  
-$EndComp
-Text Label 5300 6200 2    50   ~ 0
-RESET
-$Comp
-L power:GND #PWR0106
-U 1 1 611A38BE
-P 5700 6200
-F 0 "#PWR0106" H 5700 5950 50  0001 C CNN
-F 1 "GND" H 5705 6027 50  0000 C CNN
-F 2 "" H 5700 6200 50  0001 C CNN
-F 3 "" H 5700 6200 50  0001 C CNN
-	1    5700 6200
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x01 JP5
 U 1 1 6122D242
 P 6650 6000
@@ -1962,6 +2204,8 @@ F 0 "JP5" H 6730 5996 50  0000 L CNN
 F 1 "Conn_01x01" H 6730 5951 50  0001 L CNN
 F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 6000 50  0001 C CNN
 F 3 "~" H 6650 6000 50  0001 C CNN
+F 4 "" H 6650 6000 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 6650 6000 50  0001 C CNN "Vendor"
 	1    6650 6000
 	1    0    0    -1  
 $EndComp
@@ -1973,16 +2217,18 @@ F 0 "JP6" H 6730 6146 50  0000 L CNN
 F 1 "Conn_01x01" H 6730 6101 50  0001 L CNN
 F 2 "Kitsune-Footprints:1X01-CLEANBIG" H 6650 6150 50  0001 C CNN
 F 3 "~" H 6650 6150 50  0001 C CNN
+F 4 "" H 6650 6150 50  0001 C CNN "Supplier number"
+F 5 "N/A" H 6650 6150 50  0001 C CNN "Vendor"
 	1    6650 6150
 	1    0    0    -1  
 $EndComp
 Text Label 6450 6000 2    50   ~ 0
 RESET
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0107
 U 1 1 61275E31
 P 6450 6150
-F 0 "#PWR?" H 6450 5900 50  0001 C CNN
+F 0 "#PWR0107" H 6450 5900 50  0001 C CNN
 F 1 "GND" V 6455 6022 50  0000 R CNN
 F 2 "" H 6450 6150 50  0001 C CNN
 F 3 "" H 6450 6150 50  0001 C CNN
